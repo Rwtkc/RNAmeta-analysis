@@ -36,9 +36,7 @@ Original scripts under `analyses/` preserve their original relative input paths.
 
 The Online source uses R 4.3.0 and Shiny 1.7.4.1, GenomicRanges 1.52.0, GenomicFeatures 1.52.1, rtracklayer 1.60.0, genomation 1.32.0, Biostrings 2.68.1 and Rsamtools 2.16.0. Sequence tools are MEME Suite 5.5.5, HOMER 4.11 and RNAfold 2.4.7. Other imported packages are declared in the source files. Public precomputation used R 4.4.3.
 
-Reference resources: https://rnainformatics.cn/RNAmeta/downloads
-
-GTF inputs for all 111 reference resources: https://rnainformatics.cn/RNAmeta/downloads/annotations/gtf/index.html
+Reference resources and GTF inputs for all 111 references: https://rnainformatics.cn/RNAmeta/downloads
 
 The per-file URLs and input identities are listed in `resources/annotation_gtf_download_manifest.tsv`.
 
