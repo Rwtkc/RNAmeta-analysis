@@ -1,0 +1,73 @@
+{
+  "regional_cross_cell": {
+    "n": 73,
+    "same_median": 0.12357897778331378,
+    "other_median": 0.3788065578472609,
+    "median_difference": 0.23948942774993487,
+    "median_difference_ci": [
+      0.21023840483298545,
+      0.2644144635717376
+    ],
+    "paired_p": 3.7298230568574454e-13,
+    "permutation_p": 9.999000099990002e-05,
+    "mean_true_distance": 0.15501411001542517,
+    "mean_permuted_distance": 0.4326638373698208,
+    "closer_than_other_median": 69,
+    "forward_top1": 25,
+    "reverse_top1": 25,
+    "forward_top5": 44,
+    "reverse_top5": 48,
+    "forward_median_rank": 3.0,
+    "reverse_median_rank": 3.0
+  },
+  "multiview_cross_cell": {
+    "n": 67,
+    "same_median": 0.19170700693200826,
+    "other_median": 0.4860258354202738,
+    "median_difference": 0.27793248605851034,
+    "median_difference_ci": [
+      0.25020082753340234,
+      0.3179265845916617
+    ],
+    "paired_p": 5.1079546395207704e-12,
+    "permutation_p": 9.999000099990002e-05,
+    "mean_true_distance": 0.248649220468089,
+    "mean_permuted_distance": 0.489116765139443,
+    "closer_than_other_median": 63,
+    "forward_top1": 33,
+    "reverse_top1": 35,
+    "forward_top5": 45,
+    "reverse_top5": 49,
+    "forward_median_rank": 2.0,
+    "reverse_median_rank": 1.0
+  },
+  "fam120a": {
+    "UTR3": {
+      "n_genes": 354,
+      "mean_difference": -0.1919055902385519,
+      "bootstrap95": [
+        -0.23092469591089687,
+        -0.15395994762394738
+      ]
+    },
+    "Intron": {
+      "n_genes": 354,
+      "mean_difference": 0.16720543349150496,
+      "bootstrap95": [
+        0.13080029730660256,
+        0.20419499256839532
+      ]
+    }
+  },
+  "verification": "Matches the archived manuscript results",
+  "environment": {
+    "Python": "3.13.11",
+    "NumPy": "2.2.3",
+    "pandas": "3.0.1",
+    "SciPy": "1.17.1"
+  },
+  "source_checks": {
+    "R_source_files_parsed": 179,
+    "rnaenrich_exact_interval_background_checks": "passed"
+  }
+}

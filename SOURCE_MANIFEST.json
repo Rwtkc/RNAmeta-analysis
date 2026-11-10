@@ -1,8 +1,8 @@
 [
   {
     "path": ".gitattributes",
-    "bytes": 94,
-    "sha256": "88cd543059f500016db53833b699ec9aac6c8827a5c2da08e54af13360ab0872"
+    "bytes": 89,
+    "sha256": "dc7031e14497c815906901b3c51eb9b4c0acf11317e45134825859fd34301a1e"
   },
   {
     "path": ".gitignore",
@@ -16,13 +16,18 @@
   },
   {
     "path": "README.md",
-    "bytes": 6528,
-    "sha256": "70a08aa967190a455efffad19649089639fa74a4b2513ed5eea12d812218271b"
+    "bytes": 6628,
+    "sha256": "e07e6b5b33ea775a1b668038e3a490346d47340008a88bfc872087901d7ee9d7"
   },
   {
     "path": "requirements.txt",
     "bytes": 66,
     "sha256": "9cc6f8813b92a18f69516c82a6121ffe8ef74aa757b4c0127a7a846c9f2855f9"
+  },
+  {
+    "path": "VALIDATION.json",
+    "bytes": 1945,
+    "sha256": "aace7924846b95d5e71f88ce3c1f57b0d359ed8182df20aaf0aaa8734656c85e"
   },
   {
     "path": "api/meta_plot_api.R",

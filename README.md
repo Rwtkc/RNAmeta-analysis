@@ -22,7 +22,7 @@ The source snapshot was extracted on 10 November 2026. `SOURCE_MANIFEST.json` re
 
 ## Reproduce the key RBP statistics
 
-Use an environment containing the Python dependencies in `requirements.txt`. From the repository root:
+The statistical reproduction was verified with Python 3.13.11, NumPy 2.2.3, pandas 3.0.1 and SciPy 1.17.1. Use an environment containing the dependencies in `requirements.txt`. From the repository root:
 
 ```text
 python scripts/reproduce_statistics.py
