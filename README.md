@@ -38,6 +38,10 @@ The Online source uses R 4.3.0 and Shiny 1.7.4.1, GenomicRanges 1.52.0, GenomicF
 
 Reference resources: https://rnainformatics.cn/RNAmeta/downloads
 
+GTF inputs for all 111 reference resources: https://rnainformatics.cn/RNAmeta/downloads/annotations/gtf/index.html
+
+The per-file URLs and input identities are listed in `resources/annotation_gtf_download_manifest.tsv`.
+
 Public BED files and precomputed outputs: https://rnainformatics.org.cn/RNAmod2/download.php
 
 Reference identifiers must agree between BED coordinates, annotation objects and FASTA files. The Online code expects reference subdirectories such as `data/txdb`, `data/gff`, `data/txlens` and `data/fa`. Reference files are provided separately because of their size. `RNAMETA_ONLINE_ROOT` selects the source directory for the metagene API, and `METAPLOT_API_PORT` selects its listening port. For example, in a shell with the R dependencies and references prepared:

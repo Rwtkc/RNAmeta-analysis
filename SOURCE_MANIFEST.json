@@ -16,8 +16,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 6628,
-    "sha256": "e07e6b5b33ea775a1b668038e3a490346d47340008a88bfc872087901d7ee9d7"
+    "bytes": 6848,
+    "sha256": "37fd365da31407461af77feaeec73dd11ab76d2bfe59fe434c414619014dc14c"
   },
   {
     "path": "requirements.txt",
@@ -90,14 +90,19 @@
     "sha256": "f7679ec49d6d6f5feefb99b0cbb7a98eb275849371d5af6a8581f76d229711b6"
   },
   {
+    "path": "resources/annotation_gtf_download_manifest.tsv",
+    "bytes": 44050,
+    "sha256": "750bbf66c2b389482b7f16120cb0f44d9acfd1db5dc0a017d0295c0fdab42f79"
+  },
+  {
     "path": "resources/original_gtf_headers.json",
     "bytes": 26216,
     "sha256": "b3793f3dbbd8c221ac0e4d67a677d3132f0df0447d6e3c30aecb4b33efd69189"
   },
   {
     "path": "resources/Supplementary_Table_4_annotation_resources.tsv",
-    "bytes": 74164,
-    "sha256": "c475675c025333d340733888accc98a2e06b1e5aaae639799299148a9e0f2fc2"
+    "bytes": 90911,
+    "sha256": "9ddade2eba5b973408f596e317b01d2779e997405d4755653796ad51f973c88c"
   },
   {
     "path": "resources/Supplementary_Table_5_public_datasets.tsv",
