@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+outputs/
+node_modules/
+.Renviron
+.env
+.env.*
+*.pem
+*.key

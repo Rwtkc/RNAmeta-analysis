@@ -1,0 +1,6134 @@
+[
+  {
+    "gene": "ENSG00000132780",
+    "gene_symbol": "NASP",
+    "chr": "chr1",
+    "strand": "+",
+    "exonStart_0base": 46072992,
+    "exonEnd": 46074009,
+    "upstreamES": 46072153,
+    "upstreamEE": 46072263,
+    "downstreamES": 46078840,
+    "downstreamEE": 46078920,
+    "FDR": 3.77350595215e-08,
+    "PValue": 9.59365920039e-12,
+    "IncLevelDifference": -0.219,
+    "min_reads": 239.0,
+    "total_reads": 1424.0,
+    "kd_psi": 0.1485,
+    "control_psi": 0.368,
+    "regulated": true,
+    "stable": false,
+    "exon_length": 1017,
+    "bound_exon": false,
+    "bound_upstream_250": false,
+    "bound_downstream_250": true,
+    "bound_any_250": true,
+    "bound_upstream_500": false,
+    "bound_downstream_500": true,
+    "bound_any_500": true,
+    "protein": "QKI",
+    "cell": "HepG2",
+    "splicing_accession": "ENCFF326MEO",
+    "splicing_path": "source\\splicing\\ENCFF326MEO.tar.gz",
+    "binding_accession": "ENCFF445CGF",
+    "reference_transcripts": [
+      {
+        "_tx_id": 2732,
+        "tx_name": "ENST00000350030.3",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049732,
+        "tx_end": 46084566,
+        "exons": [
+          {
+            "_exon_id": 9770,
+            "exon_name": "ENSE00003490574.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049732,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9786,
+            "exon_name": "ENSE00003680489.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9789,
+            "exon_name": "ENSE00003470022.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9801,
+            "exon_name": "ENSE00003586112.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072993,
+            "exon_end": 46074009,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9805,
+            "exon_name": "ENSE00003548507.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9808,
+            "exon_name": "ENSE00003568340.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9811,
+            "exon_name": "ENSE00003614735.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 9815,
+            "exon_name": "ENSE00003478736.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 9822,
+            "exon_name": "ENSE00003595072.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081143,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 9825,
+            "exon_name": "ENSE00003677926.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082009,
+            "exon_end": 46082065,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 9826,
+            "exon_name": "ENSE00003512169.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082298,
+            "exon_end": 46082375,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 9831,
+            "exon_name": "ENSE00003672570.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083135,
+            "exon_end": 46083263,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 9839,
+            "exon_name": "ENSE00001815639.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46084566,
+            "exon_rank": 15
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 2728,
+        "tx_name": "ENST00000402363.3",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049717,
+        "tx_end": 46083916,
+        "exons": [
+          {
+            "_exon_id": 9768,
+            "exon_name": "ENSE00003528653.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049717,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9777,
+            "exon_name": "ENSE00003470500.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9783,
+            "exon_name": "ENSE00003557854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46066057,
+            "exon_end": 46066129,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9786,
+            "exon_name": "ENSE00003680489.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9789,
+            "exon_name": "ENSE00003470022.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9801,
+            "exon_name": "ENSE00003586112.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072993,
+            "exon_end": 46074009,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9805,
+            "exon_name": "ENSE00003548507.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9808,
+            "exon_name": "ENSE00003568340.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 9811,
+            "exon_name": "ENSE00003614735.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 9815,
+            "exon_name": "ENSE00003478736.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 9822,
+            "exon_name": "ENSE00003595072.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081143,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 9825,
+            "exon_name": "ENSE00003677926.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082009,
+            "exon_end": 46082065,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 9826,
+            "exon_name": "ENSE00003512169.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082298,
+            "exon_end": 46082375,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 9831,
+            "exon_name": "ENSE00003672570.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083135,
+            "exon_end": 46083263,
+            "exon_rank": 15
+          },
+          {
+            "_exon_id": 9834,
+            "exon_name": "ENSE00003672879.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46083916,
+            "exon_rank": 16
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 2729,
+        "tx_name": "ENST00000537798.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049717,
+        "tx_end": 46083923,
+        "exons": [
+          {
+            "_exon_id": 9767,
+            "exon_name": "ENSE00003514224.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049717,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9801,
+            "exon_name": "ENSE00003586112.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072993,
+            "exon_end": 46074009,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9805,
+            "exon_name": "ENSE00003548507.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9808,
+            "exon_name": "ENSE00003568340.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9811,
+            "exon_name": "ENSE00003614735.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9815,
+            "exon_name": "ENSE00003478736.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9822,
+            "exon_name": "ENSE00003595072.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081143,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 9825,
+            "exon_name": "ENSE00003677926.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082009,
+            "exon_end": 46082065,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 9826,
+            "exon_name": "ENSE00003512169.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082298,
+            "exon_end": 46082375,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 9831,
+            "exon_name": "ENSE00003672570.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083135,
+            "exon_end": 46083263,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 9838,
+            "exon_name": "ENSE00002312695.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46083923,
+            "exon_rank": 13
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 2727,
+        "tx_name": "ENST00000453748.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049717,
+        "tx_end": 46081026,
+        "exons": [
+          {
+            "_exon_id": 9767,
+            "exon_name": "ENSE00003514224.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049717,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9781,
+            "exon_name": "ENSE00003475541.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46066057,
+            "exon_end": 46066129,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9785,
+            "exon_name": "ENSE00003535304.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9790,
+            "exon_name": "ENSE00003521758.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9793,
+            "exon_name": "ENSE00003624081.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9800,
+            "exon_name": "ENSE00003538045.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072993,
+            "exon_end": 46074009,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9804,
+            "exon_name": "ENSE00003534271.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9809,
+            "exon_name": "ENSE00003605411.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 9810,
+            "exon_name": "ENSE00003517074.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 9816,
+            "exon_name": "ENSE00003559165.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 9818,
+            "exon_name": "ENSE00001676648.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081026,
+            "exon_rank": 12
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 2737,
+        "tx_name": "ENST00000481782.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46076226,
+        "tx_end": 46083916,
+        "exons": [
+          {
+            "_exon_id": 9803,
+            "exon_name": "ENSE00001954496.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46076226,
+            "exon_end": 46078920,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9809,
+            "exon_name": "ENSE00003605411.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9810,
+            "exon_name": "ENSE00003517074.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9816,
+            "exon_name": "ENSE00003559165.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9821,
+            "exon_name": "ENSE00003510599.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081143,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9824,
+            "exon_name": "ENSE00003510858.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082009,
+            "exon_end": 46082065,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9827,
+            "exon_name": "ENSE00003602700.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082298,
+            "exon_end": 46082375,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9830,
+            "exon_name": "ENSE00003619446.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083135,
+            "exon_end": 46083263,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9833,
+            "exon_name": "ENSE00003656079.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46083916,
+            "exon_rank": 9
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2736,
+        "tx_name": "ENST00000530073.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46074972,
+        "tx_end": 46083916,
+        "exons": [
+          {
+            "_exon_id": 9802,
+            "exon_name": "ENSE00002143229.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46074972,
+            "exon_end": 46076667,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9804,
+            "exon_name": "ENSE00003534271.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9809,
+            "exon_name": "ENSE00003605411.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9810,
+            "exon_name": "ENSE00003517074.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9816,
+            "exon_name": "ENSE00003559165.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9821,
+            "exon_name": "ENSE00003510599.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081143,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9824,
+            "exon_name": "ENSE00003510858.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082009,
+            "exon_end": 46082065,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9827,
+            "exon_name": "ENSE00003602700.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082298,
+            "exon_end": 46082375,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9830,
+            "exon_name": "ENSE00003619446.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083135,
+            "exon_end": 46083263,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 9833,
+            "exon_name": "ENSE00003656079.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46083916,
+            "exon_rank": 10
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2735,
+        "tx_name": "ENST00000351223.3",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049737,
+        "tx_end": 46083919,
+        "exons": [
+          {
+            "_exon_id": 9774,
+            "exon_name": "ENSE00001827385.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049737,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9786,
+            "exon_name": "ENSE00003680489.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9789,
+            "exon_name": "ENSE00003470022.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9805,
+            "exon_name": "ENSE00003548507.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9808,
+            "exon_name": "ENSE00003568340.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9811,
+            "exon_name": "ENSE00003614735.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9815,
+            "exon_name": "ENSE00003478736.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 9822,
+            "exon_name": "ENSE00003595072.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081143,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 9825,
+            "exon_name": "ENSE00003677926.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082009,
+            "exon_end": 46082065,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 9826,
+            "exon_name": "ENSE00003512169.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082298,
+            "exon_end": 46082375,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 9831,
+            "exon_name": "ENSE00003672570.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083135,
+            "exon_end": 46083263,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 9837,
+            "exon_name": "ENSE00001829915.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46083919,
+            "exon_rank": 14
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2734,
+        "tx_name": "ENST00000372052.4",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049735,
+        "tx_end": 46083918,
+        "exons": [
+          {
+            "_exon_id": 9773,
+            "exon_name": "ENSE00001881914.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049735,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9786,
+            "exon_name": "ENSE00003680489.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9805,
+            "exon_name": "ENSE00003548507.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9808,
+            "exon_name": "ENSE00003568340.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9811,
+            "exon_name": "ENSE00003614735.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9815,
+            "exon_name": "ENSE00003478736.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9822,
+            "exon_name": "ENSE00003595072.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081143,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 9825,
+            "exon_name": "ENSE00003677926.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082009,
+            "exon_end": 46082065,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 9826,
+            "exon_name": "ENSE00003512169.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082298,
+            "exon_end": 46082375,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 9831,
+            "exon_name": "ENSE00003672570.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083135,
+            "exon_end": 46083263,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 9835,
+            "exon_name": "ENSE00003497933.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46083918,
+            "exon_rank": 13
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2733,
+        "tx_name": "ENST00000470768.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049733,
+        "tx_end": 46073644,
+        "exons": [
+          {
+            "_exon_id": 9772,
+            "exon_name": "ENSE00001683782.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049733,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9789,
+            "exon_name": "ENSE00003470022.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9799,
+            "exon_name": "ENSE00001876408.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072993,
+            "exon_end": 46073644,
+            "exon_rank": 5
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2718,
+        "tx_name": "ENST00000437362.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049661,
+        "tx_end": 46080803,
+        "exons": [
+          {
+            "_exon_id": 9764,
+            "exon_name": "ENSE00002193105.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049661,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9781,
+            "exon_name": "ENSE00003475541.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46066057,
+            "exon_end": 46066129,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9785,
+            "exon_name": "ENSE00003535304.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9790,
+            "exon_name": "ENSE00003521758.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9793,
+            "exon_name": "ENSE00003624081.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9804,
+            "exon_name": "ENSE00003534271.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9809,
+            "exon_name": "ENSE00003605411.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9810,
+            "exon_name": "ENSE00003517074.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 9813,
+            "exon_name": "ENSE00003627202.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080803,
+            "exon_rank": 10
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2738,
+        "tx_name": "ENST00000531612.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46078841,
+        "tx_end": 46083885,
+        "exons": [
+          {
+            "_exon_id": 9805,
+            "exon_name": "ENSE00003548507.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9808,
+            "exon_name": "ENSE00003568340.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9811,
+            "exon_name": "ENSE00003614735.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9815,
+            "exon_name": "ENSE00003478736.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9822,
+            "exon_name": "ENSE00003595072.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081143,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9825,
+            "exon_name": "ENSE00003677926.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082009,
+            "exon_end": 46082065,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9828,
+            "exon_name": "ENSE00002188304.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082373,
+            "exon_end": 46082375,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9831,
+            "exon_name": "ENSE00003672570.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083135,
+            "exon_end": 46083263,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9832,
+            "exon_name": "ENSE00002172614.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46083885,
+            "exon_rank": 9
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2730,
+        "tx_name": "ENST00000528238.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049730,
+        "tx_end": 46081135,
+        "exons": [
+          {
+            "_exon_id": 9769,
+            "exon_name": "ENSE00002142467.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049730,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9805,
+            "exon_name": "ENSE00003548507.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9808,
+            "exon_name": "ENSE00003568340.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9811,
+            "exon_name": "ENSE00003614735.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9815,
+            "exon_name": "ENSE00003478736.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9820,
+            "exon_name": "ENSE00002177123.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081135,
+            "exon_rank": 8
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2717,
+        "tx_name": "ENST00000437901.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049518,
+        "tx_end": 46080803,
+        "exons": [
+          {
+            "_exon_id": 9763,
+            "exon_name": "ENSE00001673663.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049518,
+            "exon_end": 46049584,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9775,
+            "exon_name": "ENSE00001801263.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049780,
+            "exon_end": 46049877,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9786,
+            "exon_name": "ENSE00003680489.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9789,
+            "exon_name": "ENSE00003470022.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9805,
+            "exon_name": "ENSE00003548507.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 9808,
+            "exon_name": "ENSE00003568340.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 9811,
+            "exon_name": "ENSE00003614735.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 9814,
+            "exon_name": "ENSE00003691015.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080803,
+            "exon_rank": 10
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2724,
+        "tx_name": "ENST00000529333.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049717,
+        "tx_end": 46073167,
+        "exons": [
+          {
+            "_exon_id": 9767,
+            "exon_name": "ENSE00003514224.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049717,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9781,
+            "exon_name": "ENSE00003475541.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46066057,
+            "exon_end": 46066129,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9785,
+            "exon_name": "ENSE00003535304.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9787,
+            "exon_name": "ENSE00002187780.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070589,
+            "exon_end": 46070688,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9793,
+            "exon_name": "ENSE00003624081.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9796,
+            "exon_name": "ENSE00002194273.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072993,
+            "exon_end": 46073167,
+            "exon_rank": 7
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2731,
+        "tx_name": "ENST00000534101.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049732,
+        "tx_end": 46073336,
+        "exons": [
+          {
+            "_exon_id": 9771,
+            "exon_name": "ENSE00003648481.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049732,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9779,
+            "exon_name": "ENSE00003632694.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9785,
+            "exon_name": "ENSE00003535304.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9788,
+            "exon_name": "ENSE00002184074.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070637,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9795,
+            "exon_name": "ENSE00002142045.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072189,
+            "exon_end": 46072263,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9798,
+            "exon_name": "ENSE00002200990.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072993,
+            "exon_end": 46073336,
+            "exon_rank": 6
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2721,
+        "tx_name": "ENST00000527359.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049714,
+        "tx_end": 46081078,
+        "exons": [
+          {
+            "_exon_id": 9766,
+            "exon_name": "ENSE00002150929.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049714,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9806,
+            "exon_name": "ENSE00003688953.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9809,
+            "exon_name": "ENSE00003605411.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079853,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9810,
+            "exon_name": "ENSE00003517074.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079965,
+            "exon_end": 46080038,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9816,
+            "exon_name": "ENSE00003559165.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080685,
+            "exon_end": 46080873,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 9819,
+            "exon_name": "ENSE00002167961.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081078,
+            "exon_rank": 7
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2739,
+        "tx_name": "ENST00000527932.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46080635,
+        "tx_end": 46081387,
+        "exons": [
+          {
+            "_exon_id": 9812,
+            "exon_name": "ENSE00002186996.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080635,
+            "exon_end": 46080873,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9823,
+            "exon_name": "ENSE00002179197.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081387,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2740,
+        "tx_name": "ENST00000534450.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46080731,
+        "tx_end": 46083919,
+        "exons": [
+          {
+            "_exon_id": 9817,
+            "exon_name": "ENSE00002152053.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080731,
+            "exon_end": 46080873,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9822,
+            "exon_name": "ENSE00003595072.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46080977,
+            "exon_end": 46081143,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9825,
+            "exon_name": "ENSE00003677926.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082009,
+            "exon_end": 46082065,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9826,
+            "exon_name": "ENSE00003512169.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082298,
+            "exon_end": 46082375,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9837,
+            "exon_name": "ENSE00001829915.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46083919,
+            "exon_rank": 5
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2719,
+        "tx_name": "ENST00000464190.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049713,
+        "tx_end": 46072352,
+        "exons": [
+          {
+            "_exon_id": 9765,
+            "exon_name": "ENSE00002165425.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049713,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9779,
+            "exon_name": "ENSE00003632694.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9785,
+            "exon_name": "ENSE00003535304.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9790,
+            "exon_name": "ENSE00003521758.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9794,
+            "exon_name": "ENSE00001850390.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072352,
+            "exon_rank": 5
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2726,
+        "tx_name": "ENST00000525515.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049717,
+        "tx_end": 46079789,
+        "exons": [
+          {
+            "_exon_id": 9767,
+            "exon_name": "ENSE00003514224.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049717,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9786,
+            "exon_name": "ENSE00003680489.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9789,
+            "exon_name": "ENSE00003470022.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9805,
+            "exon_name": "ENSE00003548507.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46078841,
+            "exon_end": 46078920,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9807,
+            "exon_name": "ENSE00002182604.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46079768,
+            "exon_end": 46079789,
+            "exon_rank": 6
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2723,
+        "tx_name": "ENST00000531532.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049717,
+        "tx_end": 46070688,
+        "exons": [
+          {
+            "_exon_id": 9767,
+            "exon_name": "ENSE00003514224.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049717,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9780,
+            "exon_name": "ENSE00002143298.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46060366,
+            "exon_end": 46060445,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9782,
+            "exon_name": "ENSE00003476154.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46066057,
+            "exon_end": 46066129,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9785,
+            "exon_name": "ENSE00003535304.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9790,
+            "exon_name": "ENSE00003521758.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 6
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2741,
+        "tx_name": "ENST00000472408.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46082909,
+        "tx_end": 46083918,
+        "exons": [
+          {
+            "_exon_id": 9829,
+            "exon_name": "ENSE00001949330.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46082909,
+            "exon_end": 46083263,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9836,
+            "exon_name": "ENSE00003569329.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46083733,
+            "exon_end": 46083918,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2720,
+        "tx_name": "ENST00000528084.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049714,
+        "tx_end": 46072204,
+        "exons": [
+          {
+            "_exon_id": 9766,
+            "exon_name": "ENSE00002150929.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049714,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9780,
+            "exon_name": "ENSE00002143298.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46060366,
+            "exon_end": 46060445,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9785,
+            "exon_name": "ENSE00003535304.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46068037,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 9790,
+            "exon_name": "ENSE00003521758.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46070608,
+            "exon_end": 46070688,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 9791,
+            "exon_name": "ENSE00002181213.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072204,
+            "exon_rank": 6
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2725,
+        "tx_name": "ENST00000527470.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049717,
+        "tx_end": 46073205,
+        "exons": [
+          {
+            "_exon_id": 9767,
+            "exon_name": "ENSE00003514224.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049717,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9778,
+            "exon_name": "ENSE00003511854.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9792,
+            "exon_name": "ENSE00003487994.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072154,
+            "exon_end": 46072263,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9797,
+            "exon_name": "ENSE00002180524.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46072993,
+            "exon_end": 46073205,
+            "exon_rank": 4
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 2722,
+        "tx_name": "ENST00000530840.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr1",
+        "tx_strand": "+",
+        "tx_start": 46049717,
+        "tx_end": 46067950,
+        "exons": [
+          {
+            "_exon_id": 9767,
+            "exon_name": "ENSE00003514224.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46049717,
+            "exon_end": 46049877,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 9776,
+            "exon_name": "ENSE00002148663.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46054323,
+            "exon_end": 46054620,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 9779,
+            "exon_name": "ENSE00003632694.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46056895,
+            "exon_end": 46056942,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 9784,
+            "exon_name": "ENSE00002198223.1",
+            "exon_chrom": "chr1",
+            "exon_strand": "+",
+            "exon_start": 46067927,
+            "exon_end": 46067950,
+            "exon_rank": 4
+          }
+        ],
+        "contains_exact_cassette": false
+      }
+    ],
+    "selected_transcript": "ENST00000350030.3",
+    "local_start": 46072742,
+    "local_end": 46074259,
+    "genomic_sequence": "AACTGGTAATCAGAATGCTCAAGTAAAACAATACCTAGTGTAACAAGCTTGGGTTTCTTTTGCAGTAAGTTGCTCTGCTAGCCGGGATGCTCCCTTTCCTTTTCTCTAGGGGGCAGATAATTTTTAGGCCATCTGCTGAAACTTGGTAGGCTTTTTGAGGGTTTAAAGGGAATGTATTTTTAGTTTCCATTTATGCCTTTATCATTAAACTCGAAGACATGTTTATGCTTCATGTTCTTTAACCATGTAGAGGAAGCAAGGGAAGAGTTGAGAGAACAGGTTTATGACGCCATGGGAGAAAAAGAAGAAGCCAAAAAAACAGAAGACAAGTCTTTGGCAAAGCCTGAAACTGATAAAGAACAGGACAGTGAAATGGAGAAGGGTGGAAGAGAAGATATGGATATAAGTAAATCTGCAGAGGAGCCACAGGAAAAAGTTGACTTGACTCTAGATTGGTTAACTGAAACCTCTGAAGAGGCAAAAGGAGGAGCAGCACCAGAAGGACCGAATGAAGCTGAGGTCACTTCTGGGAAGCCAGAACAGGAAGTACCAGATGCTGAGGAAGAAAAATCAGTTTCTGGAACTGATGTCCAAGAAGAGTGCAGAGAAAAAGGAGGTCAGGAGAAGCAGGGAGAGGTAATTGTGAGCATAGAGGAGAAGCCAAAAGAAGTTTCAGAAGAGCAGCCTGTGGTGACTCTAGAAAAGCAGGGCACTGCAGTGGAGGTAGAAGCAGAGTCTTTAGACCCGACAGTCAAGCCAGTGGATGTGGGTGGGGACGAGCCAGAGGAGAAGGTAGTTACCTCTGAAAACGAGGCAGGAAAGGCGGTTCTTGAACAACTGGTAGGTCAAGAAGTACCACCTGCTGAAGAGTCACCAGAGGTGACAACAGAGGCTGCAGAGGCCTCAGCTGTAGAGGCTGGATCAGAAGTCTCTGAAAAGCCTGGGCAGGAGGCTCCAGTTCTCCCTAAGGATGGTGCAGTCAATGGACCGTCAGTTGTAGGAGATCAGACTCCTATTGAACCACAGACTTCTATAGAAAGACTGACAGAAACAAAAGATGGCTCAGGACTAGAGGAGAAGGTCAGGGCAAAGCTGGTTCCTAGTCAGGAGGAGACTAAGCTGTCTGTAGAAGAGTCTGAGGCAGCTGGAGATGGGGTTGATACCAAGGTAGCCCAGGGAGCTACTGAGAAATCACCTGAAGACAAAGTTCAGATAGCTGCTAATGAAGAGACACAAGAGAGAGAAGAACAGATGAAAGAGGGTGAAGGTAACCGGGATATGCAAGAGCTGCAGTGGGTGGAGTACATTCTGGATTTGACTCACTAATTATGGGTAAAAGTCAGCCTTCCATTCAGGATTTTCCGTCTGCCTTTGGATTAGGAAAGGGCTAAATGAAAAGGGGGGTAGTTTAACAAGGTCGTGATAGTCAAGTAAGTTCAATCAAAAGCAGCAAGTCTTCTTTAGCTGGCTTATAAACTAACACTTTTACTAACTGCAAAATAGGCCTTCTGTGTGAT",
+    "rna_sequence": "AACUGGUAAUCAGAAUGCUCAAGUAAAACAAUACCUAGUGUAACAAGCUUGGGUUUCUUUUGCAGUAAGUUGCUCUGCUAGCCGGGAUGCUCCCUUUCCUUUUCUCUAGGGGGCAGAUAAUUUUUAGGCCAUCUGCUGAAACUUGGUAGGCUUUUUGAGGGUUUAAAGGGAAUGUAUUUUUAGUUUCCAUUUAUGCCUUUAUCAUUAAACUCGAAGACAUGUUUAUGCUUCAUGUUCUUUAACCAUGUAGAGGAAGCAAGGGAAGAGUUGAGAGAACAGGUUUAUGACGCCAUGGGAGAAAAAGAAGAAGCCAAAAAAACAGAAGACAAGUCUUUGGCAAAGCCUGAAACUGAUAAAGAACAGGACAGUGAAAUGGAGAAGGGUGGAAGAGAAGAUAUGGAUAUAAGUAAAUCUGCAGAGGAGCCACAGGAAAAAGUUGACUUGACUCUAGAUUGGUUAACUGAAACCUCUGAAGAGGCAAAAGGAGGAGCAGCACCAGAAGGACCGAAUGAAGCUGAGGUCACUUCUGGGAAGCCAGAACAGGAAGUACCAGAUGCUGAGGAAGAAAAAUCAGUUUCUGGAACUGAUGUCCAAGAAGAGUGCAGAGAAAAAGGAGGUCAGGAGAAGCAGGGAGAGGUAAUUGUGAGCAUAGAGGAGAAGCCAAAAGAAGUUUCAGAAGAGCAGCCUGUGGUGACUCUAGAAAAGCAGGGCACUGCAGUGGAGGUAGAAGCAGAGUCUUUAGACCCGACAGUCAAGCCAGUGGAUGUGGGUGGGGACGAGCCAGAGGAGAAGGUAGUUACCUCUGAAAACGAGGCAGGAAAGGCGGUUCUUGAACAACUGGUAGGUCAAGAAGUACCACCUGCUGAAGAGUCACCAGAGGUGACAACAGAGGCUGCAGAGGCCUCAGCUGUAGAGGCUGGAUCAGAAGUCUCUGAAAAGCCUGGGCAGGAGGCUCCAGUUCUCCCUAAGGAUGGUGCAGUCAAUGGACCGUCAGUUGUAGGAGAUCAGACUCCUAUUGAACCACAGACUUCUAUAGAAAGACUGACAGAAACAAAAGAUGGCUCAGGACUAGAGGAGAAGGUCAGGGCAAAGCUGGUUCCUAGUCAGGAGGAGACUAAGCUGUCUGUAGAAGAGUCUGAGGCAGCUGGAGAUGGGGUUGAUACCAAGGUAGCCCAGGGAGCUACUGAGAAAUCACCUGAAGACAAAGUUCAGAUAGCUGCUAAUGAAGAGACACAAGAGAGAGAAGAACAGAUGAAAGAGGGUGAAGGUAACCGGGAUAUGCAAGAGCUGCAGUGGGUGGAGUACAUUCUGGAUUUGACUCACUAAUUAUGGGUAAAAGUCAGCCUUCCAUUCAGGAUUUUCCGUCUGCCUUUGGAUUAGGAAAGGGCUAAAUGAAAAGGGGGGUAGUUUAACAAGGUCGUGAUAGUCAAGUAAGUUCAAUCAAAAGCAGCAAGUCUUCUUUAGCUGGCUUAUAAACUAACACUUUUACUAACUGCAAAAUAGGCCUUCUGUGUGAU",
+    "peaks": [
+      {
+        "start": 46074196,
+        "end": 46074222,
+        "strand": "+",
+        "sequence": "TCTTCTTTAGCTGGCTTATAAACTAA",
+        "motif_hits": []
+      },
+      {
+        "start": 46074222,
+        "end": 46074259,
+        "strand": "+",
+        "sequence": "CACTTTTACTAACTGCAAAATAGGCCTTCTGTGTGAT",
+        "motif_hits": [
+          {
+            "offset": 7,
+            "sequence": "ACTAAC",
+            "genomic_start": 46074229,
+            "genomic_end": 46074235
+          }
+        ]
+      },
+      {
+        "start": 46074145,
+        "end": 46074188,
+        "strand": "+",
+        "sequence": "GTAGTTTAACAAGGTCGTGATAGTCAAGTAAGTTCAATCAAAA",
+        "motif_hits": []
+      }
+    ]
+  },
+  {
+    "gene": "ENSG00000079819",
+    "gene_symbol": "EPB41L2",
+    "chr": "chr6",
+    "strand": "-",
+    "exonStart_0base": 131201283,
+    "exonEnd": 131201346,
+    "upstreamES": 131190702,
+    "upstreamEE": 131191266,
+    "downstreamES": 131206235,
+    "downstreamEE": 131206408,
+    "FDR": 0.0,
+    "PValue": 0.0,
+    "IncLevelDifference": -0.235,
+    "min_reads": 114.0,
+    "total_reads": 722.0,
+    "kd_psi": 0.015,
+    "control_psi": 0.25,
+    "regulated": true,
+    "stable": false,
+    "exon_length": 63,
+    "bound_exon": false,
+    "bound_upstream_250": false,
+    "bound_downstream_250": true,
+    "bound_any_250": true,
+    "bound_upstream_500": false,
+    "bound_downstream_500": true,
+    "bound_any_500": true,
+    "protein": "QKI",
+    "cell": "HepG2",
+    "splicing_accession": "ENCFF326MEO",
+    "splicing_path": "source\\splicing\\ENCFF326MEO.tar.gz",
+    "binding_accession": "ENCFF445CGF",
+    "reference_transcripts": [
+      {
+        "_tx_id": 67680,
+        "tx_name": "ENST00000337057.3",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160487,
+        "tx_end": 131384462,
+        "exons": [
+          {
+            "_exon_id": 235421,
+            "exon_name": "ENSE00001735669.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131384295,
+            "exon_end": 131384462,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235372,
+            "exon_name": "ENSE00002451135.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201284,
+            "exon_end": 131201346,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235370,
+            "exon_name": "ENSE00002530032.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199390,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235356,
+            "exon_name": "ENSE00003606786.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190703,
+            "exon_end": 131191266,
+            "exon_rank": 15
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 16
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 17
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 18
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 19
+          },
+          {
+            "_exon_id": 235336,
+            "exon_name": "ENSE00001716285.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160487,
+            "exon_end": 131161738,
+            "exon_rank": 20
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 67683,
+        "tx_name": "ENST00000368128.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160492,
+        "tx_end": 131384458,
+        "exons": [
+          {
+            "_exon_id": 235418,
+            "exon_name": "ENSE00002201881.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131384282,
+            "exon_end": 131384458,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235372,
+            "exon_name": "ENSE00002451135.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201284,
+            "exon_end": 131201346,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235370,
+            "exon_name": "ENSE00002530032.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199390,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235356,
+            "exon_name": "ENSE00003606786.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190703,
+            "exon_end": 131191266,
+            "exon_rank": 15
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 16
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 17
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 18
+          },
+          {
+            "_exon_id": 235347,
+            "exon_name": "ENSE00002189203.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179276,
+            "exon_end": 131179383,
+            "exon_rank": 19
+          },
+          {
+            "_exon_id": 235338,
+            "exon_name": "ENSE00002158583.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160492,
+            "exon_end": 131161738,
+            "exon_rank": 20
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 67681,
+        "tx_name": "ENST00000530757.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160490,
+        "tx_end": 131204234,
+        "exons": [
+          {
+            "_exon_id": 235378,
+            "exon_name": "ENSE00002167100.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201741,
+            "exon_end": 131204234,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235373,
+            "exon_name": "ENSE00002179098.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201594,
+            "exon_end": 131201629,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235372,
+            "exon_name": "ENSE00002451135.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201284,
+            "exon_end": 131201346,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235370,
+            "exon_name": "ENSE00002530032.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199390,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235365,
+            "exon_name": "ENSE00003679118.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131191468,
+            "exon_end": 131191521,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235337,
+            "exon_name": "ENSE00001014932.2",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160490,
+            "exon_end": 131161738,
+            "exon_rank": 9
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 67676,
+        "tx_name": "ENST00000531410.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160487,
+        "tx_end": 131203022,
+        "exons": [
+          {
+            "_exon_id": 235376,
+            "exon_name": "ENSE00002201853.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201741,
+            "exon_end": 131203022,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235373,
+            "exon_name": "ENSE00002179098.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201594,
+            "exon_end": 131201629,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235372,
+            "exon_name": "ENSE00002451135.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201284,
+            "exon_end": 131201346,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235336,
+            "exon_name": "ENSE00001716285.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160487,
+            "exon_end": 131161738,
+            "exon_rank": 7
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 67694,
+        "tx_name": "ENST00000456097.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131190799,
+        "tx_end": 131211564,
+        "exons": [
+          {
+            "_exon_id": 235380,
+            "exon_name": "ENSE00002187806.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211564,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235372,
+            "exon_name": "ENSE00002451135.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201284,
+            "exon_end": 131201346,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235370,
+            "exon_name": "ENSE00002530032.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199390,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235368,
+            "exon_name": "ENSE00001148213.2",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131197814,
+            "exon_end": 131197915,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235365,
+            "exon_name": "ENSE00003679118.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131191468,
+            "exon_end": 131191521,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235358,
+            "exon_name": "ENSE00001618336.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190799,
+            "exon_end": 131191266,
+            "exon_rank": 7
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 67693,
+        "tx_name": "ENST00000527423.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131190703,
+        "tx_end": 131201892,
+        "exons": [
+          {
+            "_exon_id": 235374,
+            "exon_name": "ENSE00002151883.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201741,
+            "exon_end": 131201892,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235373,
+            "exon_name": "ENSE00002179098.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201594,
+            "exon_end": 131201629,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235372,
+            "exon_name": "ENSE00002451135.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201284,
+            "exon_end": 131201346,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235370,
+            "exon_name": "ENSE00002530032.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199390,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235357,
+            "exon_name": "ENSE00003661883.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190703,
+            "exon_end": 131191266,
+            "exon_rank": 5
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 67684,
+        "tx_name": "ENST00000527411.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160493,
+        "tx_end": 131384398,
+        "exons": [
+          {
+            "_exon_id": 235416,
+            "exon_name": "ENSE00001424702.3",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131384282,
+            "exon_end": 131384398,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235356,
+            "exon_name": "ENSE00003606786.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190703,
+            "exon_end": 131191266,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 15
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 16
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 17
+          },
+          {
+            "_exon_id": 235339,
+            "exon_name": "ENSE00002144008.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160493,
+            "exon_end": 131161734,
+            "exon_rank": 18
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67678,
+        "tx_name": "ENST00000530481.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160487,
+        "tx_end": 131384365,
+        "exons": [
+          {
+            "_exon_id": 235413,
+            "exon_name": "ENSE00002173659.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131384282,
+            "exon_end": 131384365,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235359,
+            "exon_name": "ENSE00001677441.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190952,
+            "exon_end": 131191266,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 15
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 16
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 17
+          },
+          {
+            "_exon_id": 235336,
+            "exon_name": "ENSE00001716285.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160487,
+            "exon_end": 131161738,
+            "exon_rank": 18
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67679,
+        "tx_name": "ENST00000445890.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160487,
+        "tx_end": 131384443,
+        "exons": [
+          {
+            "_exon_id": 235417,
+            "exon_name": "ENSE00002154958.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131384282,
+            "exon_end": 131384443,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 15
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 16
+          },
+          {
+            "_exon_id": 235336,
+            "exon_name": "ENSE00001716285.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160487,
+            "exon_end": 131161738,
+            "exon_rank": 17
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67677,
+        "tx_name": "ENST00000528282.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160487,
+        "tx_end": 131321907,
+        "exons": [
+          {
+            "_exon_id": 235407,
+            "exon_name": "ENSE00002201667.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131321760,
+            "exon_end": 131321907,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 15
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 16
+          },
+          {
+            "_exon_id": 235336,
+            "exon_name": "ENSE00001716285.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160487,
+            "exon_end": 131161738,
+            "exon_rank": 17
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67682,
+        "tx_name": "ENST00000392427.3",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160490,
+        "tx_end": 131384373,
+        "exons": [
+          {
+            "_exon_id": 235419,
+            "exon_name": "ENSE00002159412.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131384295,
+            "exon_end": 131384373,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235337,
+            "exon_name": "ENSE00001014932.2",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160490,
+            "exon_end": 131161738,
+            "exon_rank": 15
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67685,
+        "tx_name": "ENST00000524581.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131161275,
+        "tx_end": 131203203,
+        "exons": [
+          {
+            "_exon_id": 235377,
+            "exon_name": "ENSE00002148687.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201741,
+            "exon_end": 131203203,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235373,
+            "exon_name": "ENSE00002179098.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201594,
+            "exon_end": 131201629,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235370,
+            "exon_name": "ENSE00002530032.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199390,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235356,
+            "exon_name": "ENSE00003606786.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190703,
+            "exon_end": 131191266,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235340,
+            "exon_name": "ENSE00002142296.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131161275,
+            "exon_end": 131161738,
+            "exon_rank": 9
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67691,
+        "tx_name": "ENST00000529208.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131179276,
+        "tx_end": 131291623,
+        "exons": [
+          {
+            "_exon_id": 235405,
+            "exon_name": "ENSE00002196066.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131291423,
+            "exon_end": 131291623,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235356,
+            "exon_name": "ENSE00003606786.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190703,
+            "exon_end": 131191266,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 15
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 16
+          },
+          {
+            "_exon_id": 235347,
+            "exon_name": "ENSE00002189203.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179276,
+            "exon_end": 131179383,
+            "exon_rank": 17
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67675,
+        "tx_name": "ENST00000452150.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131160487,
+        "tx_end": 131190047,
+        "exons": [
+          {
+            "_exon_id": 235355,
+            "exon_name": "ENSE00001446370.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131190047,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235351,
+            "exon_name": "ENSE00003566200.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235350,
+            "exon_name": "ENSE00003639107.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235344,
+            "exon_name": "ENSE00003487655.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235336,
+            "exon_name": "ENSE00001716285.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131160487,
+            "exon_end": 131161738,
+            "exon_rank": 5
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67686,
+        "tx_name": "ENST00000525271.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131161322,
+        "tx_end": 131384391,
+        "exons": [
+          {
+            "_exon_id": 235415,
+            "exon_name": "ENSE00002187063.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131384282,
+            "exon_end": 131384391,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235345,
+            "exon_name": "ENSE00003547379.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235341,
+            "exon_name": "ENSE00002144316.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131161322,
+            "exon_end": 131161738,
+            "exon_rank": 15
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67690,
+        "tx_name": "ENST00000527659.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131179276,
+        "tx_end": 131277625,
+        "exons": [
+          {
+            "_exon_id": 235398,
+            "exon_name": "ENSE00002143469.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277625,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235359,
+            "exon_name": "ENSE00001677441.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190952,
+            "exon_end": 131191266,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 14
+          },
+          {
+            "_exon_id": 235347,
+            "exon_name": "ENSE00002189203.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179276,
+            "exon_end": 131179383,
+            "exon_rank": 15
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67689,
+        "tx_name": "ENST00000525193.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131179276,
+        "tx_end": 131277625,
+        "exons": [
+          {
+            "_exon_id": 235398,
+            "exon_name": "ENSE00002143469.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277625,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235396,
+            "exon_name": "ENSE00002468932.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276245,
+            "exon_end": 131276457,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235395,
+            "exon_name": "ENSE00003591123.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235393,
+            "exon_name": "ENSE00003652577.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235390,
+            "exon_name": "ENSE00003570896.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235389,
+            "exon_name": "ENSE00003639512.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235384,
+            "exon_name": "ENSE00002486533.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220631,
+            "exon_end": 131220718,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235383,
+            "exon_name": "ENSE00002489391.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131216107,
+            "exon_end": 131216259,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 235382,
+            "exon_name": "ENSE00002457106.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131215484,
+            "exon_end": 131215581,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 235381,
+            "exon_name": "ENSE00002500420.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131211434,
+            "exon_end": 131211606,
+            "exon_rank": 10
+          },
+          {
+            "_exon_id": 235379,
+            "exon_name": "ENSE00002485318.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131206236,
+            "exon_end": 131206408,
+            "exon_rank": 11
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 12
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 13
+          },
+          {
+            "_exon_id": 235347,
+            "exon_name": "ENSE00002189203.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179276,
+            "exon_end": 131179383,
+            "exon_rank": 14
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67696,
+        "tx_name": "ENST00000525198.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131190992,
+        "tx_end": 131202041,
+        "exons": [
+          {
+            "_exon_id": 235375,
+            "exon_name": "ENSE00002197510.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201741,
+            "exon_end": 131202041,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235373,
+            "exon_name": "ENSE00002179098.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201594,
+            "exon_end": 131201629,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235370,
+            "exon_name": "ENSE00002530032.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199390,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235367,
+            "exon_name": "ENSE00003636061.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131193511,
+            "exon_end": 131193678,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235365,
+            "exon_name": "ENSE00003679118.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131191468,
+            "exon_end": 131191521,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235361,
+            "exon_name": "ENSE00002175250.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190992,
+            "exon_end": 131191266,
+            "exon_rank": 6
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67692,
+        "tx_name": "ENST00000527017.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131179365,
+        "tx_end": 131201629,
+        "exons": [
+          {
+            "_exon_id": 235373,
+            "exon_name": "ENSE00002179098.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131201594,
+            "exon_end": 131201629,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235370,
+            "exon_name": "ENSE00002530032.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199390,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235367,
+            "exon_name": "ENSE00003636061.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131193511,
+            "exon_end": 131193678,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235365,
+            "exon_name": "ENSE00003679118.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131191468,
+            "exon_end": 131191521,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235354,
+            "exon_name": "ENSE00002530352.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131188599,
+            "exon_end": 131188721,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235352,
+            "exon_name": "ENSE00003614484.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186774,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 235349,
+            "exon_name": "ENSE00003505079.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 235348,
+            "exon_name": "ENSE00002430248.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179365,
+            "exon_end": 131179383,
+            "exon_rank": 8
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67688,
+        "tx_name": "ENST00000368126.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131161516,
+        "tx_end": 131186973,
+        "exons": [
+          {
+            "_exon_id": 235353,
+            "exon_name": "ENSE00002181050.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131186676,
+            "exon_end": 131186973,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235350,
+            "exon_name": "ENSE00003639107.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131184778,
+            "exon_end": 131184858,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235344,
+            "exon_name": "ENSE00003487655.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179383,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235343,
+            "exon_name": "ENSE00002170002.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131161516,
+            "exon_end": 131161738,
+            "exon_rank": 4
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67698,
+        "tx_name": "ENST00000530148.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131220634,
+        "tx_end": 131291558,
+        "exons": [
+          {
+            "_exon_id": 235404,
+            "exon_name": "ENSE00001446382.2",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131291423,
+            "exon_end": 131291558,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235394,
+            "exon_name": "ENSE00003549521.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235392,
+            "exon_name": "ENSE00003571702.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235391,
+            "exon_name": "ENSE00003676777.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235388,
+            "exon_name": "ENSE00003636175.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235385,
+            "exon_name": "ENSE00002182099.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220634,
+            "exon_end": 131220718,
+            "exon_rank": 6
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67702,
+        "tx_name": "ENST00000532499.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131277138,
+        "tx_end": 131335331,
+        "exons": [
+          {
+            "_exon_id": 235409,
+            "exon_name": "ENSE00002153968.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131335243,
+            "exon_end": 131335331,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235400,
+            "exon_name": "ENSE00002169735.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277138,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67704,
+        "tx_name": "ENST00000531356.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131277244,
+        "tx_end": 131299936,
+        "exons": [
+          {
+            "_exon_id": 235406,
+            "exon_name": "ENSE00002160279.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131299745,
+            "exon_end": 131299936,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235402,
+            "exon_name": "ENSE00002164903.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277244,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67701,
+        "tx_name": "ENST00000529709.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131276413,
+        "tx_end": 131334735,
+        "exons": [
+          {
+            "_exon_id": 235408,
+            "exon_name": "ENSE00002145830.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131334702,
+            "exon_end": 131334735,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235399,
+            "exon_name": "ENSE00002729070.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277134,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235397,
+            "exon_name": "ENSE00002150440.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131276413,
+            "exon_end": 131276457,
+            "exon_rank": 3
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67697,
+        "tx_name": "ENST00000534166.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131191217,
+        "tx_end": 131199765,
+        "exons": [
+          {
+            "_exon_id": 235371,
+            "exon_name": "ENSE00002189759.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199765,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235363,
+            "exon_name": "ENSE00002186045.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131191217,
+            "exon_end": 131191266,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67705,
+        "tx_name": "ENST00000530707.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131277272,
+        "tx_end": 131383716,
+        "exons": [
+          {
+            "_exon_id": 235412,
+            "exon_name": "ENSE00002141248.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131383520,
+            "exon_end": 131383716,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235403,
+            "exon_name": "ENSE00002198607.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277272,
+            "exon_end": 131277639,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67699,
+        "tx_name": "ENST00000528179.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131220693,
+        "tx_end": 131384385,
+        "exons": [
+          {
+            "_exon_id": 235420,
+            "exon_name": "ENSE00002152737.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131384295,
+            "exon_end": 131384385,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235394,
+            "exon_name": "ENSE00003549521.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235392,
+            "exon_name": "ENSE00003571702.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235391,
+            "exon_name": "ENSE00003676777.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235388,
+            "exon_name": "ENSE00003636175.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235386,
+            "exon_name": "ENSE00002155447.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220693,
+            "exon_end": 131220718,
+            "exon_rank": 6
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67703,
+        "tx_name": "ENST00000526983.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131277165,
+        "tx_end": 131336982,
+        "exons": [
+          {
+            "_exon_id": 235411,
+            "exon_name": "ENSE00002172302.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131336959,
+            "exon_end": 131336982,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235410,
+            "exon_name": "ENSE00002175234.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131336421,
+            "exon_end": 131336473,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235401,
+            "exon_name": "ENSE00002192110.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131277165,
+            "exon_end": 131277639,
+            "exon_rank": 3
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67700,
+        "tx_name": "ENST00000526333.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131220715,
+        "tx_end": 131384383,
+        "exons": [
+          {
+            "_exon_id": 235414,
+            "exon_name": "ENSE00002173908.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131384282,
+            "exon_end": 131384383,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235394,
+            "exon_name": "ENSE00003549521.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131247745,
+            "exon_end": 131247849,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235392,
+            "exon_name": "ENSE00003571702.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131229961,
+            "exon_end": 131230003,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235391,
+            "exon_name": "ENSE00003676777.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131225605,
+            "exon_end": 131225680,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235388,
+            "exon_name": "ENSE00003636175.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131222102,
+            "exon_end": 131222320,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 235387,
+            "exon_name": "ENSE00002453487.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131220715,
+            "exon_end": 131220718,
+            "exon_rank": 6
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67695,
+        "tx_name": "ENST00000533912.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131190992,
+        "tx_end": 131199354,
+        "exons": [
+          {
+            "_exon_id": 235369,
+            "exon_name": "ENSE00002141239.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131199244,
+            "exon_end": 131199354,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235366,
+            "exon_name": "ENSE00003616549.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131193511,
+            "exon_end": 131193678,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 235364,
+            "exon_name": "ENSE00003494286.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131191468,
+            "exon_end": 131191521,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 235362,
+            "exon_name": "ENSE00002190228.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131191179,
+            "exon_end": 131191266,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 235360,
+            "exon_name": "ENSE00002187194.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131190992,
+            "exon_end": 131191084,
+            "exon_rank": 5
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 67687,
+        "tx_name": "ENST00000526782.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr6",
+        "tx_strand": "-",
+        "tx_start": 131161513,
+        "tx_end": 131179468,
+        "exons": [
+          {
+            "_exon_id": 235346,
+            "exon_name": "ENSE00002165002.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131179271,
+            "exon_end": 131179468,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 235342,
+            "exon_name": "ENSE00002151002.1",
+            "exon_chrom": "chr6",
+            "exon_strand": "-",
+            "exon_start": 131161513,
+            "exon_end": 131161738,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      }
+    ],
+    "selected_transcript": "ENST00000337057.3",
+    "local_start": 131201033,
+    "local_end": 131201596,
+    "genomic_sequence": "AAAACTTGATTCATTTGACTAAACTTTTTTTTCCCACTTGTCACTTTGAGAACTTCTAGTAGATACAGTCCTGCCTAAGCCACTTGAAAGGAACACCGTCAGGCTGGTAACATGCACTCCCGAGCTGAATTCCCCCATGCACTGCATGCACCGTGCTTGAAGAACATTGCCAGCCAGCCTAGGCGTGACCTCCCGTCCACAGCAGCCGGGCAGCCATTAGGACAGAGTTGTTTTCTTAGATTATACAAACCTCCAACATTAAATTGCTATGTCTGACATAAATATTATCCCCTTCTACTCTCAAGGAATTTTTCTGTGAAATTAAATCACACACAGGGGGGAAAAGGCAAATAAACATAAGTGTATCAATCAGCAAGCACCAAAATGACCCAGAGTTCGACAGTCTAAGACATTAAAATAAAAGAGGAATACAAATCTTATGAACTTAAAGCCACAACAAACACAACTCACAAATAAACCCTGAGAGTGGACCCTCCCCACACAATACTAATGGCAGGCAGCAGTCATGAGATGTTTAACTTTAGGGAAAACTCAGCCACCTC",
+    "rna_sequence": "GAGGUGGCUGAGUUUUCCCUAAAGUUAAACAUCUCAUGACUGCUGCCUGCCAUUAGUAUUGUGUGGGGAGGGUCCACUCUCAGGGUUUAUUUGUGAGUUGUGUUUGUUGUGGCUUUAAGUUCAUAAGAUUUGUAUUCCUCUUUUAUUUUAAUGUCUUAGACUGUCGAACUCUGGGUCAUUUUGGUGCUUGCUGAUUGAUACACUUAUGUUUAUUUGCCUUUUCCCCCCUGUGUGUGAUUUAAUUUCACAGAAAAAUUCCUUGAGAGUAGAAGGGGAUAAUAUUUAUGUCAGACAUAGCAAUUUAAUGUUGGAGGUUUGUAUAAUCUAAGAAAACAACUCUGUCCUAAUGGCUGCCCGGCUGCUGUGGACGGGAGGUCACGCCUAGGCUGGCUGGCAAUGUUCUUCAAGCACGGUGCAUGCAGUGCAUGGGGGAAUUCAGCUCGGGAGUGCAUGUUACCAGCCUGACGGUGUUCCUUUCAAGUGGCUUAGGCAGGACUGUAUCUACUAGAAGUUCUCAAAGUGACAAGUGGGAAAAAAAAGUUUAGUCAAAUGAAUCAAGUUUU",
+    "peaks": [
+      {
+        "start": 131200959,
+        "end": 131201036,
+        "strand": "-",
+        "sequence": "TTTTATCCAGTACTCTTGAAGTTGTTCTACAAGTAAACCTATTCTCTCCTAAAGGGTTAACTCTAGGGCATCAACCT",
+        "motif_hits": []
+      },
+      {
+        "start": 131201076,
+        "end": 131201120,
+        "strand": "-",
+        "sequence": "TCAAGTGGCTTAGGCAGGACTGTATCTACTAGAAGTTCTCAAAG",
+        "motif_hits": []
+      },
+      {
+        "start": 131201120,
+        "end": 131201197,
+        "strand": "-",
+        "sequence": "TTCTTCAAGCACGGTGCATGCAGTGCATGGGGGAATTCAGCTCGGGAGTGCATGTTACCAGCCTGACGGTGTTCCTT",
+        "motif_hits": []
+      },
+      {
+        "start": 131201197,
+        "end": 131201239,
+        "strand": "-",
+        "sequence": "GCTGCTGTGGACGGGAGGTCACGCCTAGGCTGGCTGGCAATG",
+        "motif_hits": []
+      }
+    ]
+  },
+  {
+    "gene": "ENSG00000164244",
+    "gene_symbol": "PRRC1",
+    "chr": "chr5",
+    "strand": "+",
+    "exonStart_0base": 126860222,
+    "exonEnd": 126860426,
+    "upstreamES": 126859151,
+    "upstreamEE": 126859274,
+    "downstreamES": 126862309,
+    "downstreamEE": 126862470,
+    "FDR": 6.37736432288e-11,
+    "PValue": 1.14352971536e-13,
+    "IncLevelDifference": -0.455,
+    "min_reads": 70.0,
+    "total_reads": 435.0,
+    "kd_psi": 0.517,
+    "control_psi": 0.972,
+    "regulated": true,
+    "stable": false,
+    "exon_length": 204,
+    "bound_exon": true,
+    "bound_upstream_250": true,
+    "bound_downstream_250": false,
+    "bound_any_250": true,
+    "bound_upstream_500": true,
+    "bound_downstream_500": false,
+    "bound_any_500": true,
+    "protein": "U2AF2",
+    "cell": "K562",
+    "splicing_accession": "ENCFF405UKX",
+    "splicing_path": "source\\splicing\\ENCFF405UKX.tar.gz",
+    "binding_accession": "ENCFF331AFC",
+    "reference_transcripts": [
+      {
+        "_tx_id": 53650,
+        "tx_name": "ENST00000442138.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr5",
+        "tx_strand": "+",
+        "tx_start": 126853343,
+        "tx_end": 126887843,
+        "exons": [
+          {
+            "_exon_id": 187908,
+            "exon_name": "ENSE00001521388.2",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126853343,
+            "exon_end": 126853468,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 187911,
+            "exon_name": "ENSE00001082713.6",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126859152,
+            "exon_end": 126859274,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 187914,
+            "exon_name": "ENSE00001082715.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126860223,
+            "exon_end": 126860612,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 187915,
+            "exon_name": "ENSE00001082712.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126862310,
+            "exon_end": 126862470,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 187916,
+            "exon_name": "ENSE00001082709.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126865986,
+            "exon_end": 126866088,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 187917,
+            "exon_name": "ENSE00001082714.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126869315,
+            "exon_end": 126869478,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 187918,
+            "exon_name": "ENSE00001082717.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126874732,
+            "exon_end": 126874835,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 187920,
+            "exon_name": "ENSE00001594739.2",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126883511,
+            "exon_end": 126887843,
+            "exon_rank": 8
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 53648,
+        "tx_name": "ENST00000296666.8",
+        "tx_type": "transcript",
+        "tx_chrom": "chr5",
+        "tx_strand": "+",
+        "tx_start": 126853301,
+        "tx_end": 126890781,
+        "exons": [
+          {
+            "_exon_id": 187906,
+            "exon_name": "ENSE00002037939.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126853301,
+            "exon_end": 126853468,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 187911,
+            "exon_name": "ENSE00001082713.6",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126859152,
+            "exon_end": 126859274,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 187914,
+            "exon_name": "ENSE00001082715.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126860223,
+            "exon_end": 126860612,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 187915,
+            "exon_name": "ENSE00001082712.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126862310,
+            "exon_end": 126862470,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 187916,
+            "exon_name": "ENSE00001082709.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126865986,
+            "exon_end": 126866088,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 187917,
+            "exon_name": "ENSE00001082714.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126869315,
+            "exon_end": 126869478,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 187918,
+            "exon_name": "ENSE00001082717.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126874732,
+            "exon_end": 126874835,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 187919,
+            "exon_name": "ENSE00001082716.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126883511,
+            "exon_end": 126883613,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 187924,
+            "exon_name": "ENSE00001354123.3",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126887399,
+            "exon_end": 126890781,
+            "exon_rank": 9
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 53651,
+        "tx_name": "ENST00000512635.2",
+        "tx_type": "transcript",
+        "tx_chrom": "chr5",
+        "tx_strand": "+",
+        "tx_start": 126853348,
+        "tx_end": 126890773,
+        "exons": [
+          {
+            "_exon_id": 187909,
+            "exon_name": "ENSE00002069984.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126853348,
+            "exon_end": 126853468,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 187911,
+            "exon_name": "ENSE00001082713.6",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126859152,
+            "exon_end": 126859274,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 187914,
+            "exon_name": "ENSE00001082715.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126860223,
+            "exon_end": 126860612,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 187915,
+            "exon_name": "ENSE00001082712.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126862310,
+            "exon_end": 126862470,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 187916,
+            "exon_name": "ENSE00001082709.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126865986,
+            "exon_end": 126866088,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 187917,
+            "exon_name": "ENSE00001082714.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126869315,
+            "exon_end": 126869478,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 187918,
+            "exon_name": "ENSE00001082717.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126874732,
+            "exon_end": 126874835,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 187919,
+            "exon_name": "ENSE00001082716.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126883511,
+            "exon_end": 126883613,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 187922,
+            "exon_name": "ENSE00001635807.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126887399,
+            "exon_end": 126887570,
+            "exon_rank": 9
+          },
+          {
+            "_exon_id": 187925,
+            "exon_name": "ENSE00002202819.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126889489,
+            "exon_end": 126890773,
+            "exon_rank": 10
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 53653,
+        "tx_name": "ENST00000513427.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr5",
+        "tx_strand": "+",
+        "tx_start": 126883527,
+        "tx_end": 126888148,
+        "exons": [
+          {
+            "_exon_id": 187921,
+            "exon_name": "ENSE00002049356.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126883527,
+            "exon_end": 126883613,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 187923,
+            "exon_name": "ENSE00002079153.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126887399,
+            "exon_end": 126888148,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 53652,
+        "tx_name": "ENST00000507774.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr5",
+        "tx_strand": "+",
+        "tx_start": 126853638,
+        "tx_end": 126859800,
+        "exons": [
+          {
+            "_exon_id": 187910,
+            "exon_name": "ENSE00002026730.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126853638,
+            "exon_end": 126853691,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 187913,
+            "exon_name": "ENSE00002021568.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126859152,
+            "exon_end": 126859800,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 53649,
+        "tx_name": "ENST00000512871.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr5",
+        "tx_strand": "+",
+        "tx_start": 126853332,
+        "tx_end": 126859717,
+        "exons": [
+          {
+            "_exon_id": 187907,
+            "exon_name": "ENSE00001694711.3",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126853332,
+            "exon_end": 126853468,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 187912,
+            "exon_name": "ENSE00002045907.1",
+            "exon_chrom": "chr5",
+            "exon_strand": "+",
+            "exon_start": 126859152,
+            "exon_end": 126859717,
+            "exon_rank": 2
+          }
+        ],
+        "contains_exact_cassette": false
+      }
+    ],
+    "selected_transcript": "ENST00000442138.2",
+    "local_start": 126859972,
+    "local_end": 126860676,
+    "genomic_sequence": "AAAACAAACCAAAAAGCAAAAATGAACAATGCCATAGGTTCATACAGCTGCTTCTTTTACTTATGGGAGTTGAAAGTCATTTACACTCAATTATATTTGTTGTATATTTTAAATTACACATTTTAAAATAATTCTTGGGATATGCTTTGGTAAGTTAAAAATTTTGCAAGAAGAAAGTAATTAGACAGTTTGAAAACTAAATAAAAAACATTTCTAATTCTGTGCTTTTATCCTCTCCACTTTTTTCTAGCGGCAACCAGTTCTTTTTCTTCTCCAAATGTATCCTCCATGGAGTCCTTCCCACCACTCGCATACTCTACTCCTCAGCCGCCCCTTCCTCCTGTGAGGCCTTCAGCACCATTACCTTTTGTGCCTCCTCCTGCAGTTCCTTCTGTCCCACCACTTGTTACTTCTATGCCACCTCCTGTTTCTCCATCAACTGCTGCTGCCTTCGGTAATCCTCCTGTATCTCACTTCCCACCTTCAACTTCTGCCCCAAACACTCTTTTACCTGCACCCCCTTCGGGTCCTCCTATATCAGGATTTTCTGTTGGTTCAACTTATGACATTACAAGGGGACATGCTGGGAGAGCTCCCCAGACACCCCTGATGCCATCATTTTCTGCACCTTCAGGAACAGGTAATTCTTTCTGATACTTTGAAATACATGGCTATTAATTAATGTTTTATTCTTTTTTAAAATA",
+    "rna_sequence": "AAAACAAACCAAAAAGCAAAAAUGAACAAUGCCAUAGGUUCAUACAGCUGCUUCUUUUACUUAUGGGAGUUGAAAGUCAUUUACACUCAAUUAUAUUUGUUGUAUAUUUUAAAUUACACAUUUUAAAAUAAUUCUUGGGAUAUGCUUUGGUAAGUUAAAAAUUUUGCAAGAAGAAAGUAAUUAGACAGUUUGAAAACUAAAUAAAAAACAUUUCUAAUUCUGUGCUUUUAUCCUCUCCACUUUUUUCUAGCGGCAACCAGUUCUUUUUCUUCUCCAAAUGUAUCCUCCAUGGAGUCCUUCCCACCACUCGCAUACUCUACUCCUCAGCCGCCCCUUCCUCCUGUGAGGCCUUCAGCACCAUUACCUUUUGUGCCUCCUCCUGCAGUUCCUUCUGUCCCACCACUUGUUACUUCUAUGCCACCUCCUGUUUCUCCAUCAACUGCUGCUGCCUUCGGUAAUCCUCCUGUAUCUCACUUCCCACCUUCAACUUCUGCCCCAAACACUCUUUUACCUGCACCCCCUUCGGGUCCUCCUAUAUCAGGAUUUUCUGUUGGUUCAACUUAUGACAUUACAAGGGGACAUGCUGGGAGAGCUCCCCAGACACCCCUGAUGCCAUCAUUUUCUGCACCUUCAGGAACAGGUAAUUCUUUCUGAUACUUUGAAAUACAUGGCUAUUAAUUAAUGUUUUAUUCUUUUUUAAAAUA",
+    "peaks": [
+      {
+        "start": 126860196,
+        "end": 126860256,
+        "strand": "+",
+        "sequence": "CTTTTATCCTCTCCACTTTTTTCTAGCGGCAACCAGTTCTTTTTCTTCTCCAAATGTATC",
+        "motif_hits": []
+      }
+    ]
+  },
+  {
+    "gene": "ENSG00000152795",
+    "gene_symbol": "HNRNPDL",
+    "chr": "chr4",
+    "strand": "-",
+    "exonStart_0base": 83346715,
+    "exonEnd": 83346820,
+    "upstreamES": 83345781,
+    "upstreamEE": 83346036,
+    "downstreamES": 83347189,
+    "downstreamEE": 83347282,
+    "FDR": 0.0,
+    "PValue": 0.0,
+    "IncLevelDifference": 0.398,
+    "min_reads": 475.0,
+    "total_reads": 2177.0,
+    "kd_psi": 0.6045,
+    "control_psi": 0.2065,
+    "regulated": true,
+    "stable": false,
+    "exon_length": 105,
+    "bound_exon": true,
+    "bound_upstream_250": true,
+    "bound_downstream_250": false,
+    "bound_any_250": true,
+    "bound_upstream_500": true,
+    "bound_downstream_500": true,
+    "bound_any_500": true,
+    "protein": "U2AF2",
+    "cell": "K562",
+    "splicing_accession": "ENCFF405UKX",
+    "splicing_path": "source\\splicing\\ENCFF405UKX.tar.gz",
+    "binding_accession": "ENCFF331AFC",
+    "reference_transcripts": [
+      {
+        "_tx_id": 48895,
+        "tx_name": "ENST00000502762.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr4",
+        "tx_strand": "-",
+        "tx_start": 83345782,
+        "tx_end": 83351294,
+        "exons": [
+          {
+            "_exon_id": 171951,
+            "exon_name": "ENSE00002021217.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83350401,
+            "exon_end": 83351294,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 171946,
+            "exon_name": "ENSE00001073177.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83349431,
+            "exon_end": 83349599,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 171945,
+            "exon_name": "ENSE00001073168.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83349171,
+            "exon_end": 83349332,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 171944,
+            "exon_name": "ENSE00003681649.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348586,
+            "exon_end": 83348717,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 171941,
+            "exon_name": "ENSE00003669464.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348343,
+            "exon_end": 83348457,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 171938,
+            "exon_name": "ENSE00003484160.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83347616,
+            "exon_end": 83347786,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 171937,
+            "exon_name": "ENSE00001073166.3",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83347190,
+            "exon_end": 83347282,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 171935,
+            "exon_name": "ENSE00002087623.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83346716,
+            "exon_end": 83346820,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 171933,
+            "exon_name": "ENSE00001564425.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83345782,
+            "exon_end": 83346036,
+            "exon_rank": 9
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 48894,
+        "tx_name": "ENST00000602300.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr4",
+        "tx_strand": "-",
+        "tx_start": 83345782,
+        "tx_end": 83350600,
+        "exons": [
+          {
+            "_exon_id": 171949,
+            "exon_name": "ENSE00003313346.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83350401,
+            "exon_end": 83350600,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 171946,
+            "exon_name": "ENSE00001073177.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83349431,
+            "exon_end": 83349599,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 171945,
+            "exon_name": "ENSE00001073168.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83349171,
+            "exon_end": 83349332,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 171944,
+            "exon_name": "ENSE00003681649.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348586,
+            "exon_end": 83348717,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 171941,
+            "exon_name": "ENSE00003669464.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348343,
+            "exon_end": 83348457,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 171938,
+            "exon_name": "ENSE00003484160.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83347616,
+            "exon_end": 83347786,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 171937,
+            "exon_name": "ENSE00001073166.3",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83347190,
+            "exon_end": 83347282,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 171935,
+            "exon_name": "ENSE00002087623.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83346716,
+            "exon_end": 83346820,
+            "exon_rank": 8
+          },
+          {
+            "_exon_id": 171933,
+            "exon_name": "ENSE00001564425.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83345782,
+            "exon_end": 83346036,
+            "exon_rank": 9
+          }
+        ],
+        "contains_exact_cassette": true
+      },
+      {
+        "_tx_id": 48892,
+        "tx_name": "ENST00000295470.5",
+        "tx_type": "transcript",
+        "tx_chrom": "chr4",
+        "tx_strand": "-",
+        "tx_start": 83343717,
+        "tx_end": 83351019,
+        "exons": [
+          {
+            "_exon_id": 171950,
+            "exon_name": "ENSE00001295120.4",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83350401,
+            "exon_end": 83351019,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 171946,
+            "exon_name": "ENSE00001073177.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83349431,
+            "exon_end": 83349599,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 171945,
+            "exon_name": "ENSE00001073168.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83349171,
+            "exon_end": 83349332,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 171944,
+            "exon_name": "ENSE00003681649.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348586,
+            "exon_end": 83348717,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 171941,
+            "exon_name": "ENSE00003669464.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348343,
+            "exon_end": 83348457,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 171938,
+            "exon_name": "ENSE00003484160.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83347616,
+            "exon_end": 83347786,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 171937,
+            "exon_name": "ENSE00001073166.3",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83347190,
+            "exon_end": 83347282,
+            "exon_rank": 7
+          },
+          {
+            "_exon_id": 171932,
+            "exon_name": "ENSE00001358882.3",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83343717,
+            "exon_end": 83346036,
+            "exon_rank": 8
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 48896,
+        "tx_name": "ENST00000507721.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr4",
+        "tx_strand": "-",
+        "tx_start": 83345784,
+        "tx_end": 83348344,
+        "exons": [
+          {
+            "_exon_id": 171940,
+            "exon_name": "ENSE00002530655.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348343,
+            "exon_end": 83348344,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 171939,
+            "exon_name": "ENSE00003576523.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83347616,
+            "exon_end": 83347786,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 171934,
+            "exon_name": "ENSE00002043825.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83345784,
+            "exon_end": 83347282,
+            "exon_rank": 3
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 48897,
+        "tx_name": "ENST00000514511.1",
+        "tx_type": "transcript",
+        "tx_chrom": "chr4",
+        "tx_strand": "-",
+        "tx_start": 83346736,
+        "tx_end": 83350578,
+        "exons": [
+          {
+            "_exon_id": 171947,
+            "exon_name": "ENSE00002037941.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83350401,
+            "exon_end": 83350578,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 171943,
+            "exon_name": "ENSE00003549492.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348586,
+            "exon_end": 83348717,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 171942,
+            "exon_name": "ENSE00003671806.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348343,
+            "exon_end": 83348457,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 171939,
+            "exon_name": "ENSE00003576523.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83347616,
+            "exon_end": 83347786,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 171936,
+            "exon_name": "ENSE00002053273.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83346736,
+            "exon_end": 83347282,
+            "exon_rank": 5
+          }
+        ],
+        "contains_exact_cassette": false
+      },
+      {
+        "_tx_id": 48893,
+        "tx_name": "ENST00000349655.4",
+        "tx_type": "transcript",
+        "tx_chrom": "chr4",
+        "tx_strand": "-",
+        "tx_start": 83345782,
+        "tx_end": 83350594,
+        "exons": [
+          {
+            "_exon_id": 171948,
+            "exon_name": "ENSE00001550971.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83350401,
+            "exon_end": 83350594,
+            "exon_rank": 1
+          },
+          {
+            "_exon_id": 171946,
+            "exon_name": "ENSE00001073177.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83349431,
+            "exon_end": 83349599,
+            "exon_rank": 2
+          },
+          {
+            "_exon_id": 171945,
+            "exon_name": "ENSE00001073168.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83349171,
+            "exon_end": 83349332,
+            "exon_rank": 3
+          },
+          {
+            "_exon_id": 171944,
+            "exon_name": "ENSE00003681649.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348586,
+            "exon_end": 83348717,
+            "exon_rank": 4
+          },
+          {
+            "_exon_id": 171941,
+            "exon_name": "ENSE00003669464.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83348343,
+            "exon_end": 83348457,
+            "exon_rank": 5
+          },
+          {
+            "_exon_id": 171937,
+            "exon_name": "ENSE00001073166.3",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83347190,
+            "exon_end": 83347282,
+            "exon_rank": 6
+          },
+          {
+            "_exon_id": 171933,
+            "exon_name": "ENSE00001564425.1",
+            "exon_chrom": "chr4",
+            "exon_strand": "-",
+            "exon_start": 83345782,
+            "exon_end": 83346036,
+            "exon_rank": 7
+          }
+        ],
+        "contains_exact_cassette": false
+      }
+    ],
+    "selected_transcript": "ENST00000502762.1",
+    "local_start": 83346465,
+    "local_end": 83347070,
+    "genomic_sequence": "AAGAAAAAGCAAGCATTAAATCTTAAAAGAATGAACACTTAAAATGAGGCTCCACAATTGAAATACAACACTAAACAGAAGACCAAAATGATTAAGCTGTAAAAAGGCATTTATGTACTTTAACTCCTGTAAAAAACCATTTAAGTTAAGTTTAGACACTTAATCTCCAAAAAGATTAAAAATGAAGCCAAAGTCTGAAGTTTTCCACTTTAATCTTTACGCTGGTACATGAAGTTGGAAGAGACCATACCACAGGACAGCGTTTTCTGGTGTATGCCTTGCGCTCTGCCCGCAACGTGCGACCCCCAGAGATAGACGTGGTCAGGGTGACACACGGCCTGCAATGAAGTTCCCGCTGGCGGGTACAAACAAGGTATAATGTCAGAGTTAGAAGACAACATTCTTGTTTTCCTTAAGTTGTACCCATTTCAGTACTTTACCTGTTAATAGTTCTAAAATGTTTAATTATTCCTCTAGACCACCTGGTACACAAAAGCAAACAGAAAAACTCTTAAGTTTTTCTGCAATACTAAAGAAAGTGAGATAAGACTTTAAAGTTAAAGATCTATAGACACTTTAGGCAAAACAGGCTCATAAAGCAATTA",
+    "rna_sequence": "UAAUUGCUUUAUGAGCCUGUUUUGCCUAAAGUGUCUAUAGAUCUUUAACUUUAAAGUCUUAUCUCACUUUCUUUAGUAUUGCAGAAAAACUUAAGAGUUUUUCUGUUUGCUUUUGUGUACCAGGUGGUCUAGAGGAAUAAUUAAACAUUUUAGAACUAUUAACAGGUAAAGUACUGAAAUGGGUACAACUUAAGGAAAACAAGAAUGUUGUCUUCUAACUCUGACAUUAUACCUUGUUUGUACCCGCCAGCGGGAACUUCAUUGCAGGCCGUGUGUCACCCUGACCACGUCUAUCUCUGGGGGUCGCACGUUGCGGGCAGAGCGCAAGGCAUACACCAGAAAACGCUGUCCUGUGGUAUGGUCUCUUCCAACUUCAUGUACCAGCGUAAAGAUUAAAGUGGAAAACUUCAGACUUUGGCUUCAUUUUUAAUCUUUUUGGAGAUUAAGUGUCUAAACUUAACUUAAAUGGUUUUUUACAGGAGUUAAAGUACAUAAAUGCCUUUUUACAGCUUAAUCAUUUUGGUCUUCUGUUUAGUGUUGUAUUUCAAUUGUGGAGCCUCAUUUUAAGUGUUCAUUCUUUUAAGAUUUAAUGCUUGCUUUUUCUU",
+    "peaks": [
+      {
+        "start": 83346934,
+        "end": 83346960,
+        "strand": "-",
+        "sequence": "TTTTGTGTACCAGGTGGTCTAGAGGA",
+        "motif_hits": []
+      },
+      {
+        "start": 83346817,
+        "end": 83346836,
+        "strand": "-",
+        "sequence": "TGTTTGTACCCGCCAGCGG",
+        "motif_hits": []
+      }
+    ]
+  }
+]

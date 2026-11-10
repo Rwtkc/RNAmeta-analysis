@@ -1,0 +1,134 @@
+[
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF324PNB/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF215XPR/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF821EXR/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF014MZO/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF121XLA/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF800GPC/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF926QBW/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF803GSP/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF470JIH/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF934PXE/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF469SRC/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF036IYW/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF800XSC/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF832JDM/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF304YLR/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF304YLR/splicesite/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF322GPD/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF565RQI/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF305BNZ/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF854NXI/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF302FFF/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  },
+  {
+    "path": "/share/shiny/human_rbp_case_20261030/results/ENCFF656IDO/translation/density_data.tsv.gz",
+    "sha256": "ecf569b1202e0d6c788270358f7eff459382a2c87be3ee3c9df464d838fae857",
+    "header": "Panel\tSample\tPosition\tDensity",
+    "numerical_rows": 0
+  }
+]

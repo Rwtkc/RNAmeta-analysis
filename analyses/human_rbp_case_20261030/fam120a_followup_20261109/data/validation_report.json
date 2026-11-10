@@ -1,0 +1,23 @@
+{
+  "status": "passed",
+  "original_counts_reproduced": true,
+  "annotation_modes": 4,
+  "expression_matched_peak_counts": {
+    "K562": 2985,
+    "HepG2": 3087
+  },
+  "paired_genes": 354,
+  "canonical_transcript_peak_classes_verified": true,
+  "signal_tracks": 6,
+  "original_idr_peaks_at_locus": 27,
+  "png_pixels": [
+    3602,
+    4488
+  ],
+  "pdf_text_within_page": true,
+  "pdf_fonts": [
+    "GZROMK+ArialMT",
+    "GZROMK+Arial-BoldMT"
+  ],
+  "source_data_sheets": 12
+}

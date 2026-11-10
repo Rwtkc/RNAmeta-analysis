@@ -1,0 +1,143 @@
+.rnaplot-page{--plot-ink:#243229;--plot-muted:#68766d;--plot-accent:#748b6c;--plot-accent-deep:#52664c;--plot-soft:#e8efe4;--plot-border:#d9dfd5;--plot-canvas:#f6f5ef;min-height:100vh;background:var(--plot-canvas);color:var(--plot-ink);font-family:sans-serif}.rnaplot-header{display:flex;align-items:center;justify-content:space-between;min-height:4.2rem;padding:0 max(1.25rem,calc((100% - 112rem)/2));background:#fffdf8;border-bottom:1px solid var(--plot-border)}.rnaplot-brand{color:var(--plot-ink);font-size:1.2rem;font-weight:850;text-decoration:none}.rnaplot-brand span{color:#bd7465}.rnaplot-header-tools{display:flex;align-items:center;gap:1.15rem;color:var(--plot-muted);font-size:.78rem;font-weight:750}.rnaplot-header-tools a,.rnaplot-doc-link{display:inline-flex;align-items:center;gap:.35rem;color:var(--plot-accent-deep);font-weight:800;text-decoration:none}.rnaplot-main{width:min(112rem,calc(100% - 3rem));margin:0 auto;padding:3.4rem 0 4rem}.rnaplot-heading{display:flex;align-items:end;justify-content:space-between;gap:2rem;margin-bottom:2.25rem}.rnaplot-heading h1{margin:.55rem 0 0;font-size:clamp(2.5rem,4.8vw,4.6rem);font-weight:850;letter-spacing:0;line-height:.95}.rnaplot-heading>div>p:not(.rnaplot-eyebrow){margin:.9rem 0 0;color:var(--plot-muted);font-size:1rem;line-height:1.6}.rnaplot-eyebrow{display:inline-flex;margin:0;color:var(--plot-accent-deep);font-size:.68rem;font-weight:850;letter-spacing:.1em;text-transform:uppercase}.rnaplot-workspace{display:grid;grid-template-columns:minmax(22rem,29rem) minmax(0,1fr);gap:1.25rem;align-items:start}.rnaplot-sidebar,.rnaplot-content{min-width:0}.rnaplot-content{display:grid;gap:1.25rem}.rnaplot-panel{background:#fffdf8;border:1px solid var(--plot-border);border-radius:1rem;box-shadow:0 .65rem 1.8rem rgba(50,66,51,.07)}.rnaplot-panel--sidebar{position:sticky;top:1rem;padding:1.35rem}.rnaplot-panel--intro,.rnaplot-panel--output{padding:1.45rem}.rnaplot-panel h2{margin:.55rem 0 .65rem;color:var(--plot-ink);font-size:1.65rem;line-height:1.08}.rnaplot-copy{margin:0;color:var(--plot-muted);font-size:.94rem;line-height:1.65}.rnaplot-input-panel{margin-top:1.25rem;padding:1rem;background:#f7f3ec;border:1px solid #e5e2da;border-radius:.8rem}.rnaplot-mode-switch{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.25rem;margin-bottom:1rem;padding:.25rem;background:#e8e3db;border-radius:.65rem}.rnaplot-mode-switch button{min-height:2.45rem;padding:.4rem;border:0;border-radius:.5rem;background:transparent;color:var(--plot-muted);font:700 .88rem/1.2 sans-serif;cursor:pointer}.rnaplot-mode-switch button.is-active{background:#fffdf8;color:var(--plot-accent-deep);box-shadow:0 .15rem .4rem rgba(65,76,62,.12)}.rnaplot-field{display:block;margin:0 0 .85rem}.rnaplot-field span{display:block;margin:0 0 .4rem;color:var(--plot-ink);font-size:.86rem;font-weight:800}.rnaplot-field textarea{display:block;width:100%;min-height:7.2rem;padding:.65rem .7rem;resize:vertical;border:1px solid var(--plot-border);border-radius:.65rem;background:#fffdf8;color:var(--plot-ink);font:1rem/1.5 ui-monospace,SFMono-Regular,Menlo,monospace}.rnaplot-field textarea:focus{border-color:var(--plot-accent-deep);outline:.15rem solid rgba(116,139,108,.2)}.rnaplot-field textarea.rnaplot-region-input{min-height:5.5rem}.rnaplot-field textarea::placeholder{color:#9da69d}.rnaplot-hidden-file{display:none}.rnaplot-actions{display:grid;gap:.55rem}.rnaplot-button{display:inline-flex;align-items:center;justify-content:center;gap:.35rem;min-height:2.75rem;padding:.5rem .75rem;border-radius:.65rem;font:800 .86rem/1.2 sans-serif;cursor:pointer}.rnaplot-button--primary{border:1px solid var(--plot-accent);background:var(--plot-accent);color:#fff}.rnaplot-button--primary:hover:not(:disabled){background:var(--plot-accent-deep);border-color:var(--plot-accent-deep)}.rnaplot-button--soft{border:1px solid #b9c9b3;background:#edf3e9;color:var(--plot-accent-deep)}.rnaplot-button--quiet{border:1px solid var(--plot-border);background:#fffdf8;color:var(--plot-muted)}.rnaplot-button:disabled{cursor:default;opacity:.55}.rnaplot-export{margin-top:1.15rem;padding-top:1rem;border-top:1px solid #e1e4dc}.rnaplot-export>span{display:block;margin-bottom:.55rem;color:var(--plot-ink);font-size:.86rem;font-weight:800}.rnaplot-export>div{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.55rem}.rnaplot-export button{display:inline-flex;align-items:center;justify-content:center;gap:.3rem;min-height:2.45rem;border:1px solid var(--plot-border);border-radius:.55rem;background:#fffdf8;color:var(--plot-ink);font:800 .77rem/1.2 sans-serif;cursor:pointer}.rnaplot-export button:hover:not(:disabled){border-color:var(--plot-accent);background:var(--plot-soft);color:var(--plot-accent-deep)}.rnaplot-export button:disabled{cursor:default;opacity:.45}.rnaplot-metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.65rem;margin:1.1rem 0 0}.rnaplot-metrics div{padding:.75rem .8rem;background:#f7f3ec;border:1px solid #e5e2da;border-radius:.65rem}.rnaplot-metrics dt{color:var(--plot-muted);font-size:.72rem;font-weight:700}.rnaplot-metrics dd{margin:.25rem 0 0;color:var(--plot-ink);font-size:.92rem;font-weight:800;overflow-wrap:anywhere}.rnaplot-output-heading{display:flex;align-items:center;justify-content:space-between}.rnaplot-ready{padding:.25rem .5rem;border-radius:99rem;background:var(--plot-soft);color:var(--plot-accent-deep);font-size:.7rem;font-weight:800}.rnaplot-notice{margin:1rem 0;padding:.75rem .85rem;border:1px solid #e4b4a9;border-radius:.65rem;background:#faece8;color:#8e4d42;font-size:.82rem;font-weight:700}.rnaplot-empty{display:grid;place-items:start;padding:4rem 1.2rem;color:var(--plot-muted);text-align:left}.rnaplot-empty>span{color:var(--plot-accent);font-size:.7rem;font-weight:850;letter-spacing:.1em}.rnaplot-empty h3{margin:.6rem 0 0;color:var(--plot-ink);font-size:1.35rem}.rnaplot-empty p{max-width:32rem;margin:.55rem 0 0;font-size:.9rem;line-height:1.6}.rnaplot-visual-card{margin-top:1rem;overflow:hidden;border:1px solid #e5e2da;border-radius:.8rem;background:#fffdf8}.rnaplot-visual-card__header{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.75rem .9rem;border-bottom:1px solid #e5e2da;background:#f8f5ef}.rnaplot-visual-card__header strong{font-size:.86rem}.rnaplot-visual-card__header span{color:var(--plot-muted);font-size:.72rem;font-weight:700}.rnaplot-svg{display:block;width:100%;height:auto;min-height:18rem;padding:.7rem}.rnaplot-axis-title,.rnaplot-tick-label{fill:#68766d;font:700 12px sans-serif}.rnaplot-base-line,.rnaplot-track-line{stroke:#c7cec5;stroke-width:1}.rnaplot-track-line{stroke:#d8ded5;stroke-dasharray:3 4}.rnaplot-axis,.rnaplot-tick{stroke:#67736a;stroke-width:1.1}.rnaplot-region-label{fill:#fff;font:700 12px sans-serif}.rnaplot-track-label{fill:#52664c;font:800 11px sans-serif}.rnaplot-mark-label{fill:#455149;font:500 9px sans-serif}.rnaplot-structure-viewport{position:relative;min-height:30rem;overflow:hidden;background:#fffdf8}.rnaplot-structure-controls{position:absolute;z-index:1;top:.7rem;right:.7rem;display:flex;align-items:center;gap:.18rem;padding:.25rem;border:1px solid #d8ded5;border-radius:.5rem;background:#fffdf8ee;box-shadow:0 .2rem .7rem rgba(50,66,51,.1)}.rnaplot-structure-controls button{display:inline-flex;align-items:center;justify-content:center;width:1.8rem;height:1.8rem;border:0;border-radius:.35rem;background:transparent;color:var(--plot-ink);cursor:pointer}.rnaplot-structure-controls button:hover{background:var(--plot-soft)}.rnaplot-structure-controls span{min-width:2.4rem;color:var(--plot-muted);font-size:.7rem;font-weight:800;text-align:center}.rnaplot-structure-svg{display:block;width:100%;height:30rem;transform-origin:center center;transition:transform .16s ease}.rnaplot-backbone{stroke:#9ba79d;stroke-width:1.3}.rnaplot-pair{stroke:#879483;stroke-width:1;opacity:.65}.rnaplot-base-label{fill:#26342b;font:700 8px ui-monospace,monospace}.rnaplot-position-label{fill:#68766d;font:700 9px sans-serif}.rnaplot-footer{width:100%;padding:.5rem max(1.5rem,calc((100% - 104rem)/2));color:#62787a;font-size:.9rem;font-weight:700;line-height:1.5;text-align:center;background:#eef3f1;border-top:1px solid #d8e3de}
+@media (max-width:42rem){.rnaplot-header{min-height:3.6rem;padding-inline:1rem}.rnaplot-header-tools>span{display:none}.rnaplot-main{width:calc(100% - 1.25rem);padding-bottom:2.5rem}.rnaplot-heading{align-items:flex-start;flex-direction:column;gap:1rem}.rnaplot-heading h1{font-size:3.2rem}.rnaplot-panel--sidebar,.rnaplot-panel--intro,.rnaplot-panel--output{padding:1rem}.rnaplot-metrics{grid-template-columns:repeat(2,minmax(0,1fr))}.rnaplot-visual-card__header{align-items:flex-start;flex-direction:column;gap:.25rem}.rnaplot-structure-viewport,.rnaplot-structure-svg{min-height:23rem;height:23rem}}
+
+/* RNAplot follows a single reading order: introduction, input, review, output. */
+.rnaplot-main{width:min(112rem,calc(100% - 3rem));padding-top:3.75rem}
+.rnaplot-heading{margin-bottom:2.5rem}
+.rnaplot-heading h1{font-size:clamp(3rem,5vw,5rem)}
+.rnaplot-panel--input,.rnaplot-panel--output{padding:1.5rem}
+.rnaplot-panel--input{margin-bottom:1.25rem}
+.rnaplot-section-heading{display:flex;align-items:end;justify-content:space-between;gap:2rem;margin-bottom:1.25rem}
+.rnaplot-section-heading h2{margin:.55rem 0 0;color:var(--plot-ink);font-size:1.7rem;line-height:1.08}
+.rnaplot-panel--input .rnaplot-input-panel{margin-top:0;padding:1.15rem;background:#f7f3ec}
+.rnaplot-panel--input .rnaplot-mode-switch{max-width:28rem;margin-bottom:1.15rem}
+.rnaplot-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem}
+.rnaplot-fields .rnaplot-field{margin-bottom:0}
+.rnaplot-panel--input .rnaplot-actions{display:flex;flex-direction:row;align-items:center;gap:.65rem;margin-top:1rem}
+.rnaplot-panel--input .rnaplot-button{flex:1}
+.rnaplot-panel--output{min-height:26rem}
+.rnaplot-output-tools{display:flex;align-items:center;gap:1rem}
+@media (max-width:42rem){.rnaplot-main{width:calc(100% - 1.25rem);padding-top:2.5rem}.rnaplot-panel--input,.rnaplot-panel--output{padding:1rem}.rnaplot-section-heading{align-items:flex-start;flex-direction:column;gap:.55rem}.rnaplot-fields{grid-template-columns:1fr}.rnaplot-panel--input .rnaplot-actions{align-items:stretch;flex-direction:column}.rnaplot-output-tools{width:100%;justify-content:space-between}.rnaplot-panel--output{min-height:20rem}}
+
+/* Keep the tool compact so input and results remain visible in one working view. */
+.rnaplot-main{padding-top:2.8rem;padding-bottom:3rem}
+.rnaplot-nav{display:flex;align-items:center;gap:.25rem}
+.rnaplot-nav a{display:inline-flex;min-height:2rem;align-items:center;gap:.3rem;padding:.42rem .7rem;border:1px solid transparent;border-radius:.35rem;color:#4b6666;font-size:.77rem;font-weight:750;text-decoration:none}
+.rnaplot-nav a:hover,.rnaplot-nav a:focus-visible{color:var(--plot-ink);background:var(--plot-soft);border-color:#c3d4bf;outline:0}
+.rnaplot-heading{margin-bottom:1.75rem}
+.rnaplot-heading h1{font-size:clamp(2.35rem,4vw,3.7rem)}
+.rnaplot-heading>div>p:not(.rnaplot-eyebrow){margin-top:.65rem;font-size:.86rem}
+.rnaplot-panel--input{padding:1.15rem;margin-bottom:0}
+.rnaplot-section-heading{margin-bottom:.9rem}
+.rnaplot-section-heading h2{font-size:1.35rem}
+.rnaplot-panel--input .rnaplot-input-panel{padding:.9rem}
+.rnaplot-mode-label{display:block;margin:0 0 .45rem;color:var(--plot-ink);font-size:.76rem;font-weight:800}
+.rnaplot-mode-switch button{min-height:2.2rem;font-size:.78rem}
+.rnaplot-field span{font-size:.76rem}
+.rnaplot-field textarea{min-height:7rem;padding:.55rem .62rem;font-size:.84rem}
+.rnaplot-fields .rnaplot-field textarea{min-height:7.4rem}
+.rnaplot-button{min-height:2.35rem;padding:.4rem .6rem;font-size:.76rem}
+.rnaplot-output-tools{justify-content:flex-end;margin-bottom:.6rem}
+@media (max-width:42rem){.rnaplot-main{padding-top:2rem}.rnaplot-panel--input{padding:.85rem}.rnaplot-panel--input .rnaplot-actions{gap:.45rem}.rnaplot-output-tools{margin-bottom:.4rem}.rnaplot-nav{gap:0}.rnaplot-nav a{padding:.4rem .45rem;font-size:.66rem}.rnaplot-nav .rnaplot-ecosystem-nav{display:none}}
+
+/* Match the home page container and horizontal gutters. */
+.rnaplot-header{padding-inline:max(1.5rem,calc((100% - 104rem) / 2))}
+.rnaplot-main{width:min(104rem,calc(100% - 3rem))}
+@media (max-width:42rem){.rnaplot-header{padding-inline:1rem}.rnaplot-main{width:calc(100% - 2rem)}}
+
+/* Keep the RNAplot navigation identical to the home navigation. */
+.rnaplot-header{min-height:3.3rem;background:#fff;border-bottom:1px solid #c9d7d2}
+@media (max-width:36rem){.rnaplot-header{min-height:3.3rem}.rnaplot-brand{font-size:1.08rem}}
+
+.rnaplot-intro-copy{max-width:none;padding:1rem 1.15rem;border:1px solid #d6e1d1;border-left:.25rem solid var(--plot-accent);border-radius:.65rem;background:#eef4ea;color:var(--plot-ink);font-size:.88rem;line-height:1.65}
+.rnaplot-intro-copy strong{font-weight:800}
+.rnaplot-intro-copy p{margin:.35rem 0 0;color:var(--plot-muted)}
+.rnaplot-intro-copy em{color:var(--plot-accent-deep);font-style:normal;font-weight:750}
+.rnaplot-intro-copy code{padding:.12rem .3rem;border-radius:.25rem;background:#e0eade;color:var(--plot-accent-deep);font:700 .82rem/1.2 sans-serif}
+.rnaplot-section-heading h2{font-size:1.25rem!important}
+.rnaplot-field textarea{font-family:sans-serif}
+.rnaplot-fields{align-items:stretch}
+.rnaplot-fields .rnaplot-field{display:flex;flex-direction:column}
+.rnaplot-fields .rnaplot-field textarea{height:8.2rem;min-height:8.2rem;resize:vertical}
+.rnaplot-fields--annotations{grid-template-columns:repeat(2,minmax(0,1fr))}
+.rnaplot-fields--annotations .rnaplot-field textarea{height:8.2rem;min-height:8.2rem}
+.rnaplot-fields--annotations .rnaplot-field{grid-column:auto}
+@media (max-width:42rem){.rnaplot-fields--annotations{grid-template-columns:1fr}}
+.rnaplot-remote-plot{display:block;width:100%;height:auto;background:#fffdf8;padding:0}
+
+.rnaplot-intro-copy{width:100%;max-width:none;margin:0;color:var(--plot-muted);font-size:.9rem;line-height:1.6}
+.rnaplot-intro-copy{border-left:1px solid #d6e1d1}
+.rnaplot-section-heading{align-items:center;margin-bottom:.9rem}
+.rnaplot-section-heading h2{margin:0;font-size:1.35rem}
+.rnaplot-section-label{margin-left:auto;color:var(--plot-accent-deep);font-size:.68rem;font-weight:850;letter-spacing:.1em;text-transform:uppercase}
+.rnaplot-fields .rnaplot-field textarea.rnaplot-region-input{height:8.2rem;min-height:8.2rem!important}
+.rnaplot-button{transition:background-color .16s ease,border-color .16s ease,color .16s ease,transform .16s ease,box-shadow .16s ease}
+.rnaplot-button--soft:hover,.rnaplot-button--soft:focus-visible{border-color:var(--plot-accent);background:#dfead9;color:var(--plot-accent-deep);box-shadow:0 .25rem .7rem rgba(82,102,76,.12);transform:translateY(-.06rem);outline:0}
+.rnaplot-button--primary:hover,.rnaplot-button--primary:focus-visible{background:var(--plot-accent-deep);border-color:var(--plot-accent-deep);box-shadow:0 .25rem .7rem rgba(82,102,76,.2);transform:translateY(-.06rem);outline:0}
+.rnaplot-button--quiet:hover,.rnaplot-button--quiet:focus-visible{border-color:var(--plot-accent);background:var(--plot-soft);color:var(--plot-accent-deep);box-shadow:0 .25rem .7rem rgba(82,102,76,.1);transform:translateY(-.06rem);outline:0}
+
+/* Keep the output canvas aligned with RNAmeta's RnaAnnotationView. */
+.rnaplot-page{--plot-canvas:#f3ede4;--plot-ink:#2f3930;--plot-muted:#6d7569;--plot-accent:#859b7a;--plot-accent-deep:#65795b;--plot-soft:#e8ede2;--plot-border:#d8cebf}
+.rnaplot-panel--output{padding:1.5rem;background:#fffdf8;border:1px solid #d8cebf;border-radius:1.25rem;box-shadow:0 .75rem 1.875rem rgba(58,49,38,.08)}
+.rnaplot-output-topline{display:flex;align-items:center;justify-content:space-between;min-height:2rem;margin-bottom:.9rem}
+.rnaplot-output-tools{display:flex;align-items:center;gap:.55rem;margin:0;margin-left:auto}
+.rnaplot-export-button{display:inline-flex;align-items:center;justify-content:center;gap:.35rem;min-height:2.35rem;padding:.45rem .7rem;border:1px solid #d8cebf;border-radius:.75rem;background:#fffdf8;color:#2f3930;font:800 .78rem/1 sans-serif;cursor:pointer}
+.rnaplot-export-button:hover{border-color:#859b7a;background:#e8ede2;color:#65795b}
+@media (max-width:42rem){.rnaplot-panel--output{padding:1rem}.rnaplot-output-topline{align-items:flex-start}.rnaplot-output-tools{justify-content:flex-end}}
+
+/* Migrated RNAmeta structure viewer and annotation tracks. */
+.rnaplot-panel--output{margin-top:2rem}
+.rna-annotation-structure-preview{background:transparent;border:1px solid rgba(133,155,122,.16);border-radius:1rem;margin:1rem 0;overflow:hidden}
+.rna-annotation-figure{margin:0;background:transparent}
+.rna-annotation-figure__canvas,.rna-annotation-static-plot__canvas{background:transparent}
+.rna-annotation-static-plot .rnaplot-remote-plot{background:transparent}
+.rna-annotation-structure-viewer{height:38rem;overflow:hidden;position:relative}
+.rna-annotation-structure-viewport{background:transparent;cursor:grab;height:100%;overflow:hidden;overscroll-behavior:contain;touch-action:none;width:100%}
+.rna-annotation-structure-viewport img{pointer-events:none}
+.rna-annotation-structure-inline{align-items:center;display:flex;height:100%;justify-content:center;transform-origin:center center;user-select:none;width:100%}
+.rna-annotation-structure-inline>svg{height:100%;max-height:none;max-width:none;overflow:visible;pointer-events:auto;width:100%}
+.rna-annotation-structure-viewport:active{cursor:grabbing}
+.rna-annotation-structure-preview__image{background:#fffdf8;display:block;height:100%;object-fit:contain;transform-origin:center center;user-select:none;width:100%}
+.rna-annotation-structure-controls{align-items:center;background:rgba(255,253,248,.94);border:1px solid rgba(133,155,122,.28);border-radius:.55rem;box-shadow:0 .2rem .7rem rgba(74,88,67,.12);display:flex;gap:.25rem;padding:.25rem;position:absolute;right:.75rem;top:.75rem;z-index:2}
+.rna-annotation-structure-controls button{align-items:center;background:transparent;border:0;border-radius:.35rem;color:var(--plot-ink);cursor:pointer;display:inline-flex;height:1.85rem;justify-content:center;width:1.85rem}
+.rna-annotation-structure-controls button:hover,.rna-annotation-structure-controls button:focus-visible{background:rgba(133,155,122,.16);outline:none}
+.rna-annotation-structure-controls span{color:var(--plot-muted);font-size:.72rem;font-weight:800;min-width:2.8rem;text-align:center}
+.rna-annotation-tracks{background:transparent;border-top:0;padding:.9rem 1.15rem 1rem}
+.rna-annotation-tracks svg{display:block;height:auto;overflow:visible;width:100%}
+.rna-annotation-tracks__axis-label,.rna-annotation-tracks__label{fill:#243229;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:400}
+.rna-annotation-tracks__interval{fill:#243229;font-family:Arial,Helvetica,sans-serif;font-size:9px;font-weight:400;paint-order:stroke fill;stroke:#fffefa;stroke-linejoin:round;stroke-width:3px}
+.rna-annotation-tracks__baseline{stroke:#d2d1cb;stroke-width:.9}
+.rna-annotation-tracks__axis,.rna-annotation-tracks__tick{stroke:#667067;stroke-width:1.1}
+.rna-annotation-tracks__band{fill:rgba(133,155,122,.045)}
+.rna-annotation-tracks__grid{stroke:rgba(101,113,101,.1);stroke-width:.75}
+.rna-annotation-tracks__legend-label{fill:#243229;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:400}
+.rna-annotation-tracks__legend{transform:translateX(225px)}
+@media (max-width:42rem){.rna-annotation-structure-viewer{height:28rem}.rna-annotation-tracks{padding:.65rem}.rna-annotation-tracks__legend{transform:translateX(80px)}}
+
+/* Match RNAenrich's teal/coral visual system and keep the footer at the viewport bottom. */
+.rnaplot-page {
+  --plot-ink: #143536;
+  --plot-muted: #607778;
+  --plot-accent: #397b73;
+  --plot-accent-deep: #2d665f;
+  --plot-soft: #e4f0ec;
+  --plot-border: #d7e2dd;
+  --plot-canvas: #f6f8f5;
+  display: flex;
+  min-height: 100vh;
+  min-height: 100dvh;
+  flex-direction: column;
+  background: var(--plot-canvas);
+}
+.rnaplot-main { flex: 1 0 auto; }
+.rnaplot-header { background: #fff; border-bottom-color: #cad8d3; }
+.rnaplot-panel { background: #fff; border-color: var(--plot-border); }
+.rnaplot-input-panel { background: #f7faf8; border-color: var(--plot-border); }
+.rnaplot-mode-switch { background: var(--plot-soft); }
+.rnaplot-mode-switch button.is-active { background: #fff; color: var(--plot-accent); }
+.rnaplot-field textarea { background: #fbfdfb; border-color: var(--plot-border); }
+.rnaplot-button--primary { background: var(--plot-accent); border-color: var(--plot-accent); }
+.rnaplot-button--soft { background: var(--plot-soft); border-color: #b9cec7; color: var(--plot-accent); }
+.rnaplot-button--quiet { background: #fff; border-color: var(--plot-border); }
+.rnaplot-intro-copy { background: #eef4ea; border-color: #d6e1d1; border-left-color: var(--plot-accent); }
+.rnaplot-footer { flex-shrink: 0; }

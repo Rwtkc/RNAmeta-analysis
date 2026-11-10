@@ -1,0 +1,145 @@
+{
+  "regional_cross_cell": {
+    "n": 73,
+    "same_median": 0.12357897778331378,
+    "other_median": 0.3788065578472609,
+    "median_difference": 0.23948942774993487,
+    "median_difference_ci": [
+      0.21023840483298545,
+      0.2644144635717376
+    ],
+    "paired_p": 3.7298230568574454e-13,
+    "permutation_p": 9.999000099990002e-05,
+    "mean_true_distance": 0.15501411001542517,
+    "mean_permuted_distance": 0.4326638373698208,
+    "closer_than_other_median": 69,
+    "forward_top1": 25,
+    "reverse_top1": 25,
+    "forward_top5": 44,
+    "reverse_top5": 48,
+    "forward_median_rank": 3.0,
+    "reverse_median_rank": 3.0
+  },
+  "regional_min500": {
+    "n": 53,
+    "same_median": 0.08205192321834438,
+    "other_median": 0.3746602164732312,
+    "median_difference": 0.24964140634927892,
+    "median_difference_ci": [
+      0.2220262778375055,
+      0.3030600459800266
+    ],
+    "paired_p": 3.560191014255506e-10,
+    "permutation_p": 9.999000099990002e-05,
+    "mean_true_distance": 0.12217925915480936,
+    "mean_permuted_distance": 0.43675945943112426,
+    "closer_than_other_median": 50,
+    "forward_top1": 24,
+    "reverse_top1": 24,
+    "forward_top5": 38,
+    "reverse_top5": 37,
+    "forward_median_rank": 2.0,
+    "reverse_median_rank": 2.0
+  },
+  "multiview_cross_cell": {
+    "n": 67,
+    "same_median": 0.19170700693200826,
+    "other_median": 0.4860258354202738,
+    "median_difference": 0.27793248605851034,
+    "median_difference_ci": [
+      0.25020082753340234,
+      0.3179265845916617
+    ],
+    "paired_p": 5.1079546395207704e-12,
+    "permutation_p": 9.999000099990002e-05,
+    "mean_true_distance": 0.248649220468089,
+    "mean_permuted_distance": 0.489116765139443,
+    "closer_than_other_median": 63,
+    "forward_top1": 33,
+    "reverse_top1": 35,
+    "forward_top5": 45,
+    "reverse_top5": 49,
+    "forward_median_rank": 2.0,
+    "reverse_median_rank": 1.0
+  },
+  "region_same_cohort": {
+    "n": 67,
+    "same_median": 0.12438789510923667,
+    "other_median": 0.40692104863576595,
+    "median_difference": 0.276270192885318,
+    "median_difference_ci": [
+      0.24021114488795192,
+      0.3165891361491842
+    ],
+    "paired_p": 1.6805571986744575e-12,
+    "permutation_p": 9.999000099990002e-05,
+    "mean_true_distance": 0.15188122135530246,
+    "mean_permuted_distance": 0.46406954352347957,
+    "closer_than_other_median": 64,
+    "forward_top1": 24,
+    "reverse_top1": 26,
+    "forward_top5": 43,
+    "reverse_top5": 45,
+    "forward_median_rank": 2.0,
+    "reverse_median_rank": 2.0
+  },
+  "multiview_min500": {
+    "n": 52,
+    "same_median": 0.16864601488630449,
+    "other_median": 0.4598296252582608,
+    "median_difference": 0.29552421476237895,
+    "median_difference_ci": [
+      0.2475409097578105,
+      0.3195985911421875
+    ],
+    "paired_p": 4.690293921300863e-10,
+    "permutation_p": 9.999000099990002e-05,
+    "mean_true_distance": 0.19067967355996857,
+    "mean_permuted_distance": 0.4639737178489375,
+    "closer_than_other_median": 50,
+    "forward_top1": 32,
+    "reverse_top1": 32,
+    "forward_top5": 42,
+    "reverse_top5": 44,
+    "forward_median_rank": 1.0,
+    "reverse_median_rank": 1.0
+  },
+  "multiview_rank_comparison": {
+    "n": 67,
+    "median_improvement": 0.0,
+    "paired_p": 0.7498657420082362
+  },
+  "function_tests": {
+    "total": 114,
+    "fdr05": 8,
+    "min500_total": 96,
+    "min500_fdr05": 2
+  },
+  "response_tests": [
+    {
+      "outcome": "response",
+      "n": 134,
+      "rho": 0.21288072529689653,
+      "p": 0.013527873839665942
+    },
+    {
+      "outcome": "response_reads30",
+      "n": 134,
+      "rho": 0.2180428908627624,
+      "p": 0.011376669306125894
+    },
+    {
+      "outcome": "partial_rank_adjusted",
+      "n": 133,
+      "rho": 0.17030290097274448,
+      "p": 0.04999500049995
+    }
+  ],
+  "five_primary_secondary_tests_bh": [
+    1.8649115284287227e-12,
+    1.2769886598801927e-11,
+    0.016909842299582426,
+    0.016909842299582426,
+    0.04999500049995
+  ]
+}
