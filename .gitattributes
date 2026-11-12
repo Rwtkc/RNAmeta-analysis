@@ -1,5 +1,1 @@
 * text=auto eol=lf
-*.npz binary
-*.xlsx binary
-*.gz binary
-*.tsv whitespace=-blank-at-eol

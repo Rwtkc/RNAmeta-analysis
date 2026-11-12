@@ -1,9 +1,3 @@
-__pycache__/
-*.pyc
-outputs/
+.Rhistory
+.RData
 node_modules/
-.Renviron
-.env
-.env.*
-*.pem
-*.key

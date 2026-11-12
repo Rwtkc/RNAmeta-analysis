@@ -1,7 +1,0 @@
-{
-  "n": 73,
-  "median_bidirectional_peak_overlap": 0.2394120894369121,
-  "median_bp_jaccard": 0.07287221570926143,
-  "low_overlap_but_positional_correspondence": 35,
-  "spearman_overlap_distance": -0.40272121436505004
-}
